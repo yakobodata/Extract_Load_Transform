@@ -3,3 +3,4 @@ numpy
 mysql.connector
 google-cloud
 pyarrow
+google-cloud-bigquery

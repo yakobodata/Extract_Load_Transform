@@ -11,7 +11,7 @@
 9,2006,Death of a Saleswoman,"Comedy, Mystery",1.5,bad,77,avg length movie
 10,2005,Firecracker,"Crime, Drama, Mystery",5.4,okay,112,really long movie
 11,2006,Children of Men,"Drama, Thriller",7.9,good,109,really long movie
-12,2005,Bob the Butler,"Comedy, Family",5.5,okay,90,really long movie
+12,2005,Bob the Butler,"Comedy, Family",5.5,okay,90,no data
 13,2005,Bad Girls from Valley High,Comedy,3.5,okay,84,avg length movie
 14,2005,Ripley Under Ground,"Crime, Drama, Thriller",6.1,good,101,really long movie
 15,2005,Lucky 13,"Comedy, Romance",4.6,okay,95,really long movie
@@ -29,7 +29,7 @@
 27,2006,Love Is the Drug,Drama,5.5,okay,96,really long movie
 28,2005,Thru the Moebius Strip,"Animation, Adventure, Sci-",5.1,okay,87,avg length movie
 29,2005,The Ringer,"Comedy, Sport",5.8,okay,94,really long movie
-30,2006,How to Go Out on a Date in Queens,"Comedy, Romance",4.3,okay,90,really long movie
+30,2006,How to Go Out on a Date in Queens,"Comedy, Romance",4.3,okay,90,no data
 31,2005,From Venus,"Horror, Sci-Fi",4.5,okay,88,avg length movie
 32,2005,Heaven's Neighbors,Drama,7.1,good,115,really long movie
 33,2006,Beyond the Wall of Sleep,Horror,2.8,bad,84,avg length movie
@@ -50,7 +50,7 @@
 48,2005,Dark Assassin,"Action, Thriller",3.3,okay,82,avg length movie
 49,2006,Raising Flagg,Comedy,5.4,okay,103,really long movie
 50,2005,Love Thy Neighbor,"Comedy, Drama, Mystery",3.6,okay,89,avg length movie
-51,2005,Funny Valentine,"Comedy, Romance",4.4,okay,90,really long movie
+51,2005,Funny Valentine,"Comedy, Romance",4.4,okay,90,no data
 52,2006,Bobby,"Biography, Drama, History",7.0,good,117,really long movie
 53,2005,Les Boys IV,"Comedy, Sport",4.9,okay,121,really long movie
 54,2006,Happily N'Ever After,"Animation, Adventure, Come",4.5,okay,75,avg length movie
@@ -68,7 +68,7 @@
 66,2005,Thumbsucker,"Comedy, Drama",6.6,good,96,really long movie
 67,2005,El viento,"Drama, Romance",6.8,good,92,really long movie
 68,2005,Kingdom of Heaven,"Action, Adventure, Drama",7.2,good,144,really long movie
-69,2005,Blodsbröder,"Crime, Drama",2.8,bad,90,really long movie
+69,2005,Blodsbröder,"Crime, Drama",2.8,bad,90,no data
 70,2006,30 Days,"Drama, Sport",3.8,okay,93,really long movie
 71,2005,Ze film,Comedy,5.4,okay,105,really long movie
 72,2006,Loving Annabelle,"Drama, Romance",6.3,good,77,avg length movie
@@ -100,7 +100,7 @@
 98,2005,Nowhere Man,"Comedy, Crime, Drama",3.7,okay,78,avg length movie
 99,2005,Shopgirl,"Drama, Romance",6.3,good,106,really long movie
 100,2005,Diamond Zero,"Sci-Fi, Action, Comedy",4.3,okay,85,avg length movie
-101,2005,Beauty and the Beast,"Action, Adventure, Family",4.1,okay,90,really long movie
+101,2005,Beauty and the Beast,"Action, Adventure, Family",4.1,okay,90,no data
 102,2006,Goose on the Loose,"Adventure, Comedy, Family",4.3,okay,87,avg length movie
 103,2005,The Magic Roundabout,"Animation, Adventure, Come",5.2,okay,85,avg length movie
 104,2005,Daltry Calhoun,"Comedy, Drama, Music",5.1,okay,100,really long movie
@@ -155,7 +155,7 @@
 153,2005,Ainoa,"Adventure, Sci-Fi",4.9,okay,95,really long movie
 154,2006,Agua,Drama,6.0,okay,89,avg length movie
 155,2005,Silence Becomes You,"Drama, Horror, Mystery",4.3,okay,88,avg length movie
-156,2005,Standing Still,"Comedy, Drama, Romance",5.7,okay,90,really long movie
+156,2005,Standing Still,"Comedy, Drama, Romance",5.7,okay,90,no data
 157,2006,10th & Wolf,"Crime, Drama, Thriller",6.3,good,107,really long movie
 158,2005,Constantine,"Action, Fantasy, Horror",7.0,good,121,really long movie
 159,2005,King Kong,"Action, Adventure, Drama",7.2,good,187,really long movie
@@ -179,7 +179,7 @@
 177,2006,Whirlygirl,"Drama, Romance",5.8,okay,99,really long movie
 178,2006,Art School Confidential,"Comedy, Drama, Romance",6.3,good,102,really long movie
 179,2005,Dating Games People Play,"Comedy, Romance",5.0,okay,95,really long movie
-180,2005,Man with the Screaming Brain,"Adventure, Comedy, Sci-Fi",5.6,okay,90,really long movie
+180,2005,Man with the Screaming Brain,"Adventure, Comedy, Sci-Fi",5.6,okay,90,no data
 181,2005,Las mantenidas sin sueños,"Comedy, Drama",6.9,good,97,really long movie
 182,2005,The Matador,"Comedy, Crime, Thriller",6.7,good,96,really long movie
 183,2005,Revolver,"Action, Crime, Drama",6.4,good,111,really long movie
@@ -191,7 +191,7 @@
 189,2005,Géminis,Drama,6.0,okay,85,avg length movie
 190,2006,Happy Feet,"Animation, Adventure, Come",6.4,good,108,really long movie
 191,2005,The Jacket,"Drama, Fantasy, Mystery",7.1,good,103,really long movie
-192,2005,Lethal,"Action, Drama",2.5,bad,90,really long movie
+192,2005,Lethal,"Action, Drama",2.5,bad,90,no data
 193,2005,Mirrormask,"Adventure, Fantasy",6.8,good,101,really long movie
 194,2006,Shortbus,"Comedy, Drama",6.4,good,101,really long movie
 195,2005,Sorstalanság,"Drama, Romance, War",6.9,good,140,really long movie
@@ -205,17 +205,17 @@
 203,2005,Echoes of Innocence,"Romance, Thriller",5.2,okay,118,really long movie
 204,2005,Americano,"Comedy, Romance",6.1,good,95,really long movie
 205,2005,Are We There Yet?,"Adventure, Comedy, Family",4.7,okay,95,really long movie
-206,2005,Crab Orchard,"Drama, Family, Comedy",4.4,okay,90,really long movie
+206,2005,Crab Orchard,"Drama, Family, Comedy",4.4,okay,90,no data
 207,2005,Elizabethtown,"Comedy, Drama, Romance",6.4,good,123,really long movie
 208,2005,The Lazarus Child,"Drama, Horror",5.0,okay,93,really long movie
 209,2005,Separate Lies,"Crime, Drama, Romance",6.4,good,85,avg length movie
 210,2005,Alone in the Dark,"Action, Horror, Sci-Fi",2.4,bad,96,really long movie
 211,2005,Bal-Can-Can,"Action, Adventure, Comedy",7.7,good,89,avg length movie
-212,2005,Fun with Dick and Jane,"Comedy, Crime",6.1,good,90,really long movie
+212,2005,Fun with Dick and Jane,"Comedy, Crime",6.1,good,90,no data
 213,2005,Monster-in-Law,"Comedy, Romance",5.5,okay,101,really long movie
 214,2005,Strangers with Candy,Comedy,6.0,okay,97,really long movie
 215,2006,Ultraviolet,"Action, Adventure, Crime",4.4,okay,88,avg length movie
-216,2005,Shooting Livien,"Drama, Music, Romance",5.4,okay,90,really long movie
+216,2005,Shooting Livien,"Drama, Music, Romance",5.4,okay,90,no data
 217,2005,Stay,"Drama, Mystery, Thriller",6.8,good,99,really long movie
 218,2005,Tetsujin niju-hachigo,"Action, Adventure, Fantasy",5.2,okay,113,really long movie
 219,2005,Window Theory,"Comedy, Drama, Romance",3.9,okay,87,avg length movie
@@ -226,13 +226,13 @@
 224,2005,The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi",6.7,good,109,really long movie
 225,2005,The Zodiac,"Crime, Drama, Horror",5.4,okay,92,really long movie
 226,2005,La monja,"Drama, Horror, Thriller",4.0,okay,101,really long movie
-227,2005,Secuestro express,"Action, Crime, Drama",6.5,good,90,really long movie
+227,2005,Secuestro express,"Action, Crime, Drama",6.5,good,90,no data
 228,2005,Adam & Steve,"Comedy, Drama, Music",5.9,okay,99,really long movie
 229,2005,Guess Who,"Comedy, Romance",5.9,okay,105,really long movie
 230,2005,Dinotopia: Quest for the Ruby Sunstone,"Animation, Adventure, Come",5.2,okay,75,avg length movie
 231,2005,Iowa,"Crime, Drama",5.0,okay,104,really long movie
 232,2005,Sex Sells: The Making of 'Touché',"Comedy, Romance",4.8,okay,96,really long movie
-233,2005,The Wedding Date,"Comedy, Romance",6.2,good,90,really long movie
+233,2005,The Wedding Date,"Comedy, Romance",6.2,good,90,no data
 234,2005,Batman Begins,"Action, Adventure",8.2,good,140,really long movie
 235,2005,The Extra,"Comedy, Romance",5.1,okay,96,really long movie
 236,2006,Holla,Horror,3.5,okay,86,avg length movie
@@ -244,7 +244,7 @@
 242,2005,"Cinema, Aspirinas e Urubus","Adventure, Drama",7.4,good,99,really long movie
 243,2005,Der Clown,"Action, Crime, Thriller",4.4,okay,104,really long movie
 244,2006,Rampage: The Hillside Strangler Murders,"Crime, Drama, Thriller",4.3,okay,85,avg length movie
-245,2005,The Honeymooners,"Comedy, Drama, Family",3.3,okay,90,really long movie
+245,2005,The Honeymooners,"Comedy, Drama, Family",3.3,okay,90,no data
 246,2005,The Interpreter,"Crime, Mystery, Thriller",6.4,good,128,really long movie
 247,2005,Khullam Khulla Pyaar Karen,Comedy,4.2,okay,155,really long movie
 248,2006,Libertas,"Biography, Drama, History",5.8,okay,130,really long movie
@@ -266,9 +266,9 @@
 264,2005,Anniyan,"Action, Drama, Thriller",8.2,good,181,really long movie
 265,2005,The Shadow Dancer,"Comedy, Drama, Romance",6.7,good,100,really long movie
 266,2005,Slow Burn,"Drama, Mystery, Thriller",5.8,okay,93,really long movie
-267,2005,Vida y color,Drama,6.1,good,90,really long movie
+267,2005,Vida y color,Drama,6.1,good,90,no data
 268,2005,Colour Me Kubrick: A True...ish Story,"Comedy, Drama",6.1,good,86,avg length movie
-269,2005,Frozen,Thriller,5.8,okay,90,really long movie
+269,2005,Frozen,Thriller,5.8,okay,90,no data
 270,2005,Guy in Row Five,Comedy,6.0,okay,97,really long movie
 271,2005,Pizza,Comedy,5.7,okay,80,avg length movie
 272,2006,X-Men: The Last Stand,"Action, Sci-Fi",6.7,good,104,really long movie
@@ -290,7 +290,7 @@
 288,2005,Target of Opportunity,"Action, Drama",3.8,okay,88,avg length movie
 289,2005,Dead Fish,"Action, Comedy, Thriller",5.4,okay,98,really long movie
 290,2005,Ghosts Never Sleep,Drama,4.3,okay,85,avg length movie
-291,2005,Bailey's Billion$,"Comedy, Family",3.9,okay,90,really long movie
+291,2005,Bailey's Billion$,"Comedy, Family",3.9,okay,90,no data
 292,2005,Capote,"Biography, Crime, Drama",7.3,good,114,really long movie
 293,2005,Serenity,"Action, Adventure, Sci-Fi",7.8,good,119,really long movie
 294,2006,The Woods,"Horror, Mystery, Thriller",5.7,okay,91,really long movie
@@ -303,7 +303,7 @@
 301,2005,Une aventure,"Drama, Romance",5.0,okay,100,really long movie
 302,2006,Casino Royale,"Action, Adventure, Thrille",8.0,good,144,really long movie
 303,2006,Kruistocht in spijkerbroek,"Adventure, Family, Fantasy",6.1,good,125,really long movie
-304,2005,Flirt,"Romance, Comedy",5.8,okay,90,really long movie
+304,2005,Flirt,"Romance, Comedy",5.8,okay,90,no data
 305,2006,Kisses and Caroms,Comedy,4.4,okay,81,avg length movie
 306,2005,The Last Sign,"Drama, Fantasy, Romance",3.3,okay,91,really long movie
 307,2005,Pretty Persuasion,"Comedy, Drama",6.5,good,104,really long movie
@@ -314,7 +314,7 @@
 312,2005,Heights,"Drama, Romance",6.9,good,93,really long movie
 313,2005,Hide and Seek,"Drama, Horror, Mystery",6.0,okay,101,really long movie
 314,2005,La historia del baúl rosado,"Crime, Drama, Mystery",6.2,good,97,really long movie
-315,2006,The Penalty King,Comedy,5.5,okay,90,really long movie
+315,2006,The Penalty King,Comedy,5.5,okay,90,no data
 316,2005,Rosario Tijeras,"Crime, Drama, Romance",6.3,good,126,really long movie
 317,2005,Vet hard,"Action, Comedy, Crime",6.2,good,88,avg length movie
 318,2005,Things to Do Before You're 30,"Comedy, Drama, Romance",5.6,okay,101,really long movie
@@ -325,7 +325,7 @@
 323,2006,Jindabyne,"Crime, Drama, Mystery",6.3,good,123,really long movie
 324,2005,Look Both Ways,"Drama, Mystery, Romance",7.0,good,100,really long movie
 325,2005,Little Fish,"Crime, Drama, Romance",6.2,good,114,really long movie
-326,2005,Planetfall,"Action, Sci-Fi, Western",3.0,okay,90,really long movie
+326,2005,Planetfall,"Action, Sci-Fi, Western",3.0,okay,90,no data
 327,2005,Kameleon 2,"Adventure, Comedy, Family",5.9,okay,105,really long movie
 328,2005,Stealth,"Action, Adventure, Sci-Fi",5.1,okay,121,really long movie
 329,2005,Vom Suchen und Finden der Liebe,"Comedy, Drama, Music",5.7,okay,107,really long movie
@@ -341,16 +341,16 @@
 339,2005,Sueño,"Comedy, Drama, Music",5.2,okay,108,really long movie
 340,2005,Police Beat,"Crime, Drama",6.7,good,80,avg length movie
 341,2005,Af banen,"Comedy, Sport",5.0,okay,80,avg length movie
-342,2005,Cry Wolf,"Drama, Horror, Mystery",5.8,okay,90,really long movie
+342,2005,Cry Wolf,"Drama, Horror, Mystery",5.8,okay,90,no data
 343,2006,Silent Hill,Horror,6.5,good,125,really long movie
-344,2005,Swimmers,Drama,6.5,good,90,really long movie
+344,2005,Swimmers,Drama,6.5,good,90,no data
 345,2005,Kicking & Screaming,"Comedy, Family, Romance",5.6,okay,95,really long movie
 346,2005,The Weather Man,"Comedy, Drama",6.5,good,102,really long movie
 347,2005,The White Countess,"Drama, History, Romance",6.6,good,135,really long movie
 348,2005,Missing in America,"Drama, War",6.6,good,102,really long movie
 349,2006,Accepted,Comedy,6.4,good,93,really long movie
 350,2006,Aimee Semple McPherson,"Biography, Drama",4.7,okay,110,really long movie
-351,2005,The Amityville Horror,Horror,6.0,okay,90,really long movie
+351,2005,The Amityville Horror,Horror,6.0,okay,90,no data
 352,2006,Ask the Dust,"Drama, Romance",5.8,okay,117,really long movie
 353,2005,Trouble with Sex,"Drama, Romance",5.2,okay,88,avg length movie
 354,2005,The Dying Gaul,"Drama, Romance",6.4,good,92,really long movie
@@ -363,14 +363,14 @@
 361,2005,Crash Landing,"Action, Crime, Drama",3.7,okay,88,avg length movie
 362,2005,Fainaru fantajî sebun adobento chirudoren,"Animation, Action, Adventu",7.2,good,101,really long movie
 363,2006,Glory Road,"Biography, Drama, Sport",7.2,good,118,really long movie
-364,2005,The Godfather of Green Bay,Comedy,5.6,okay,90,really long movie
+364,2005,The Godfather of Green Bay,Comedy,5.6,okay,90,no data
 365,2006,Monster House,"Animation, Adventure, Come",6.6,good,91,really long movie
 366,2005,My Big Fat Independent Movie,Comedy,3.2,okay,80,avg length movie
 367,2005,Le parfum de la dame en noir,"Comedy, Crime",5.7,okay,115,really long movie
 368,2006,Red Riding Hood,"Adventure, Family, Musical",3.4,okay,82,avg length movie
 369,2005,The Legend of Zorro,"Action, Adventure, Romance",5.9,okay,129,really long movie
 370,2005,Duck,Drama,6.0,okay,96,really long movie
-371,2005,Inside Out,"Drama, Mystery, Thriller",5.4,okay,90,really long movie
+371,2005,Inside Out,"Drama, Mystery, Thriller",5.4,okay,90,no data
 372,2005,Hitch,"Comedy, Romance",6.6,good,118,really long movie
 373,2005,Love for Rent,"Comedy, Romance",7.0,good,96,really long movie
 374,2006,Renaissance,"Animation, Action, Sci-Fi",6.7,good,105,really long movie
@@ -382,7 +382,7 @@
 380,2005,Bee Season,"Drama, Family",5.5,okay,104,really long movie
 381,2005,Cold and Dark,"Crime, Horror, Thriller",4.0,okay,94,really long movie
 382,2005,The Constant Gardener,"Drama, Mystery, Romance",7.4,good,129,really long movie
-383,2005,The Iris Effect,"Mystery, Thriller, Drama",3.2,okay,90,really long movie
+383,2005,The Iris Effect,"Mystery, Thriller, Drama",3.2,okay,90,no data
 384,2005,Prime,"Comedy, Drama, Romance",6.2,good,105,really long movie
 385,2005,The Roost,"Horror, Thriller",4.9,okay,80,avg length movie
 386,2006,Idiocracy,"Adventure, Comedy, Sci-Fi",6.6,good,84,avg length movie
@@ -406,13 +406,13 @@
 404,2005,The Girl from Monday,"Action, Comedy, Sci-Fi",5.2,okay,84,avg length movie
 405,2005,The Greatest Game Ever Played,"Biography, Drama, History",7.4,good,120,really long movie
 406,2005,Johnny Slade's Greatest Hits,"Comedy, Crime, Music",6.0,okay,88,avg length movie
-407,2006,Sea of Fear,Horror,2.6,bad,90,really long movie
+407,2006,Sea of Fear,Horror,2.6,bad,90,no data
 408,2005,O Signo do Caos,Drama,6.7,good,80,avg length movie
 409,2006,The West Wittering Affair,Comedy,4.0,okay,92,really long movie
 410,2006,Zwartboek,"Drama, Thriller, War",7.7,good,145,really long movie
 411,2005,Budjenje iz mrtvih,Drama,6.5,good,134,really long movie
 412,2006,Click,"Comedy, Drama, Fantasy",6.4,good,107,really long movie
-413,2005,Deck Dogz,"Action, Adventure, Drama",4.9,okay,90,really long movie
+413,2005,Deck Dogz,"Action, Adventure, Drama",4.9,okay,90,no data
 414,2005,Edison,"Action, Crime, Drama",5.3,okay,99,really long movie
 415,2006,Matti,"Biography, Comedy, Drama",5.9,okay,135,really long movie
 416,2006,Swarm of the Snakehead,"Comedy, Horror, Sci-Fi",3.5,okay,95,really long movie
@@ -434,7 +434,7 @@
 432,2005,Leef!,Drama,6.9,good,110,really long movie
 433,2005,The Nickel Children,Drama,5.5,okay,95,really long movie
 434,2006,The Other Side,"Action, Thriller",5.2,okay,92,really long movie
-435,2005,Reeker,"Horror, Mystery, Thriller",5.2,okay,90,really long movie
+435,2005,Reeker,"Horror, Mystery, Thriller",5.2,okay,90,no data
 436,2005,Santa's Slay,"Comedy, Fantasy, Horror",5.3,okay,78,avg length movie
 437,2006,The Shaggy Dog,"Comedy, Family, Fantasy",4.4,okay,98,really long movie
 438,2006,Sportman van de Eeuw,"Comedy, Drama, Romance",6.8,good,100,really long movie
@@ -473,14 +473,14 @@
 471,2006,Dirty Work,Thriller,5.3,okay,97,really long movie
 472,2006,Eight Below,"Adventure, Drama, Family",7.3,good,120,really long movie
 473,2005,Drop Dead Sexy,"Comedy, Crime",5.0,okay,83,avg length movie
-474,2005,Game Over,"Action, Drama",2.8,bad,90,really long movie
+474,2005,Game Over,"Action, Drama",2.8,bad,90,no data
 475,2005,Man to Man,Drama,6.5,good,122,really long movie
 476,2005,Memoirs of a Geisha,"Drama, Romance",7.4,good,145,really long movie
 477,2006,My Bollywood Bride,"Comedy, Drama, Romance",4.7,okay,95,really long movie
 478,2005,Obaba,Drama,6.5,good,100,really long movie
 479,2005,"Travaux, on sait quand ça commence...",Comedy,5.2,okay,95,really long movie
-480,2005,Zemanovaload,Comedy,6.0,okay,90,really long movie
-481,2005,A fény ösvényei,Drama,6.9,good,90,really long movie
+480,2005,Zemanovaload,Comedy,6.0,okay,90,no data
+481,2005,A fény ösvényei,Drama,6.9,good,90,no data
 482,2005,Derailed,"Crime, Drama, Thriller",6.6,good,108,really long movie
 483,2005,Devil's Highway,Thriller,3.5,okay,91,really long movie
 484,2005,Down in the Valley,"Drama, Romance, Thriller",6.4,good,108,really long movie
@@ -496,7 +496,7 @@
 494,2006,The Celestine Prophecy,"Adventure, Drama",4.9,okay,99,really long movie
 495,2006,DOA: Dead or Alive,"Action, Adventure",4.8,okay,87,avg length movie
 496,2005,Dead Meat,"Comedy, Horror",4.1,okay,87,avg length movie
-497,2005,Down and Derby,"Comedy, Family",5.5,okay,90,really long movie
+497,2005,Down and Derby,"Comedy, Family",5.5,okay,90,no data
 498,2005,Duane Hopwood,"Comedy, Drama",6.6,good,84,avg length movie
 499,2006,Grad Night,"Comedy, Drama",1.7,bad,89,avg length movie
 500,2005,A History of Violence,"Crime, Drama, Thriller",7.4,good,96,really long movie
@@ -514,11 +514,11 @@
 512,2005,The Ice Harvest,"Comedy, Crime, Drama",6.3,good,92,really long movie
 513,2005,Lepel,Drama,6.3,good,96,really long movie
 514,2006,Open Season,"Animation, Adventure, Come",6.1,good,86,avg length movie
-515,2005,"Tu vas rire, mais je te quitte",Comedy,5.0,okay,90,really long movie
+515,2005,"Tu vas rire, mais je te quitte",Comedy,5.0,okay,90,no data
 516,2006,The Witches Hammer,"Action, Horror",3.1,okay,91,really long movie
 517,2005,C.R.A.Z.Y.,"Comedy, Drama",7.9,good,127,really long movie
 518,2005,The Baxter,"Comedy, Romance",6.5,good,91,really long movie
-519,2005,The Curse of El Charro,Horror,2.9,bad,90,really long movie
+519,2005,The Curse of El Charro,Horror,2.9,bad,90,no data
 520,2005,Say Uncle,"Comedy, Drama",5.5,okay,91,really long movie
 521,2005,Fierce People,"Drama, Thriller",6.5,good,107,really long movie
 522,2006,A Good Year,"Comedy, Drama, Romance",7.0,good,117,really long movie
@@ -542,7 +542,7 @@
 540,2005,Hating Alison Ashley,Comedy,5.5,okay,100,really long movie
 541,2005,The Dark Hours,"Horror, Thriller",6.0,okay,80,avg length movie
 542,2005,Iznogoud,Comedy,3.7,okay,95,really long movie
-543,2006,Comme tout le monde,"Comedy, Romance",5.5,okay,90,really long movie
+543,2006,Comme tout le monde,"Comedy, Romance",5.5,okay,90,no data
 544,2005,The New World,"Biography, Drama, History",6.7,good,135,really long movie
 545,2005,Ivkova slava,Comedy,7.2,good,110,really long movie
 546,2006,Sólo Dios sabe,"Drama, Mystery, Romance",6.7,good,115,really long movie
@@ -560,7 +560,7 @@
 558,2006,Max Havoc: Ring of Fire,Action,3.1,okay,89,avg length movie
 559,2005,Nordkraft,"Crime, Drama, Romance",6.8,good,125,really long movie
 560,2005,Oskar & Josefine,"Family, Fantasy, Sci-Fi",5.2,okay,80,avg length movie
-561,2006,Perfect Creature,"Action, Drama, Fantasy",5.4,okay,90,really long movie
+561,2006,Perfect Creature,"Action, Drama, Fantasy",5.4,okay,90,no data
 562,2005,Roll Bounce,"Comedy, Drama, Music",6.1,good,112,really long movie
 563,2005,The Sisterhood of the Traveling Pants,"Comedy, Drama, Romance",6.5,good,119,really long movie
 564,2005,Solkongen,"Comedy, Drama",6.1,good,86,avg length movie
@@ -596,8 +596,8 @@
 594,2005,Stestí,Drama,7.1,good,102,really long movie
 595,2005,"The Prize Winner of Defiance, Ohio","Biography, Drama",7.3,good,99,really long movie
 596,2005,Sametoví vrazi,"Crime, Drama",6.0,okay,137,really long movie
-597,2005,Shut Up and Shoot Me,Comedy,6.2,good,90,really long movie
-598,2005,Skrítek,Comedy,7.1,good,90,really long movie
+597,2005,Shut Up and Shoot Me,Comedy,6.2,good,90,no data
+598,2005,Skrítek,Comedy,7.1,good,90,no data
 599,2005,Zathura: A Space Adventure,"Action, Adventure, Comedy",6.1,good,101,really long movie
 600,2005,El amor - primera parte,"Comedy, Romance",7.0,good,102,really long movie
 601,2005,The Chumscrubber,"Comedy, Drama",6.9,good,108,really long movie
@@ -630,7 +630,7 @@
 628,2005,Voksne mennesker,"Comedy, Drama, Romance",7.2,good,109,really long movie
 629,2006,Firewall,"Action, Crime, Thriller",5.8,okay,105,really long movie
 630,2005,Bad News Bears,"Comedy, Sport",5.8,okay,113,really long movie
-631,2006,Der var engang en dreng - som fik en lillesøster me,"Family, Musical",5.7,okay,90,really long movie
+631,2006,Der var engang en dreng - som fik en lillesøster me,"Family, Musical",5.7,okay,90,no data
 632,2005,Flightplan,"Drama, Mystery, Thriller",6.3,good,98,really long movie
 633,2005,Guy X,"Comedy, War",5.1,okay,101,really long movie
 634,2005,Kids in America,Comedy,5.7,okay,91,really long movie
@@ -644,7 +644,7 @@
 642,2005,Les poupées russes,"Comedy, Drama, Romance",7.0,good,125,really long movie
 643,2006,East Broadway,"Comedy, Family, Romance",5.9,okay,105,really long movie
 644,2005,Shabd,Drama,5.2,okay,140,really long movie
-645,2006,The Alibi,"Comedy, Drama, Romance",6.4,good,90,really long movie
+645,2006,The Alibi,"Comedy, Drama, Romance",6.4,good,90,no data
 646,2006,Cargo,"Adventure, Drama, Thriller",5.1,okay,95,really long movie
 647,2005,Cheong yeon,Romance,6.8,good,132,really long movie
 648,2005,Come Away Home,"Drama, Family",6.8,good,102,really long movie
@@ -661,14 +661,14 @@
 659,2005,On a Clear Day,"Comedy, Drama, Romance",6.9,good,95,really long movie
 660,2006,Only the Brave,"Drama, War",5.3,okay,99,really long movie
 661,2005,Oublier Cheyenne,"Drama, Romance",6.3,good,86,avg length movie
-662,2005,La petite Chartreuse,Drama,6.4,good,90,really long movie
+662,2005,La petite Chartreuse,Drama,6.4,good,90,no data
 663,2005,Resurrection: The J.R. Richard Story,Drama,7.3,good,120,really long movie
 664,2005,Sidekick,"Fantasy, Sci-Fi",5.4,okay,87,avg length movie
-665,2005,Slingshot,"Crime, Drama, Romance",4.6,okay,90,really long movie
+665,2005,Slingshot,"Crime, Drama, Romance",4.6,okay,90,no data
 666,2005,Soul Searcher,"Action, Fantasy, Thriller",3.9,okay,98,really long movie
 667,2006,Taxidermia,"Comedy, Drama, Horror",6.9,good,91,really long movie
 668,2006,Thanks to Gravity,"Comedy, Drama, Romance",5.6,okay,96,really long movie
-669,2006,Threat,Drama,4.9,okay,90,really long movie
+669,2006,Threat,Drama,4.9,okay,90,no data
 670,2005,Tideland,"Drama, Fantasy, Horror",6.5,good,120,really long movie
 671,2005,All the Invisible Children,Drama,7.5,good,124,really long movie
 672,2005,L'annulaire,Drama,6.2,good,104,really long movie
@@ -685,7 +685,7 @@
 683,2005,The World's Fastest Indian,"Biography, Drama, Sport",7.8,good,127,really long movie
 684,2006,29 Reasons to Run,Comedy,5.9,okay,99,really long movie
 685,2005,Tout pour plaire,Comedy,6.0,okay,105,really long movie
-686,2005,Being Cyrus,"Drama, Thriller",7.2,good,90,really long movie
+686,2005,Being Cyrus,"Drama, Thriller",7.2,good,90,no data
 687,2005,Animal,"Sci-Fi, Thriller",5.0,okay,103,really long movie
 688,2005,L'antidote,Comedy,5.2,okay,107,really long movie
 689,2005,Brutal Incasso,"Action, Comedy",3.6,okay,87,avg length movie
@@ -709,41 +709,41 @@
 707,2005,Intermedio,"Horror, Thriller",2.7,bad,85,avg length movie
 708,2005,Kinamand,Drama,7.0,good,88,avg length movie
 709,2005,Off Screen,"Crime, Drama, Thriller",6.7,good,94,really long movie
-710,2005,The War Within,Drama,6.8,good,90,really long movie
+710,2005,The War Within,Drama,6.8,good,90,no data
 711,2005,Pride & Prejudice,"Drama, Romance",7.8,good,129,really long movie
 712,2005,7 días,Comedy,6.7,good,95,really long movie
 713,2005,Amu,Drama,7.4,good,102,really long movie
 714,2005,37 og et halvt,"Drama, Comedy",4.7,okay,101,really long movie
-715,2006,Barnyard,"Animation, Adventure, Come",5.5,okay,90,really long movie
-716,2005,La boîte noire,"Mystery, Thriller",5.9,okay,90,really long movie
+715,2006,Barnyard,"Animation, Adventure, Come",5.5,okay,90,no data
+716,2005,La boîte noire,"Mystery, Thriller",5.9,okay,90,no data
 717,2005,The Quiet,"Crime, Drama, Thriller",6.3,good,96,really long movie
-718,2006,Fated,"Romance, Fantasy",6.3,good,90,really long movie
+718,2006,Fated,"Romance, Fantasy",6.3,good,90,no data
 719,2006,Final Destination 3,"Horror, Thriller",5.8,okay,93,really long movie
 720,2006,The Fountain,"Drama, Mystery, Romance",7.2,good,97,really long movie
 721,2005,Vinterkyss,"Drama, Mystery, Thriller",6.4,good,84,avg length movie
 722,2005,Marock,"Drama, Romance",6.1,good,105,really long movie
 723,2006,Minotaur,"Action, Adventure, Fantasy",3.6,okay,93,really long movie
 724,2005,Mortuary,"Horror, Mystery, Thriller",4.0,okay,94,really long movie
-725,2005,Red Doors,Drama,6.4,good,90,really long movie
+725,2005,Red Doors,Drama,6.4,good,90,no data
 726,2006,Talladega Nights: The Ballad of Ricky Bobby,"Comedy, Sport",6.6,good,108,really long movie
-727,2006,Seven Mummies,"Action, Adventure, Drama",2.4,bad,90,really long movie
+727,2006,Seven Mummies,"Action, Adventure, Drama",2.4,bad,90,no data
 728,2005,Beed-e majnoon,Drama,7.4,good,96,really long movie
 729,2005,Boy s tenyu,"Action, Drama, Sport",5.9,okay,132,really long movie
 730,2005,Boy Eats Girl,"Comedy, Fantasy, Horror",5.0,okay,80,avg length movie
 731,2005,The Trouble with Dee Dee,Comedy,6.5,good,81,avg length movie
 732,2005,Dus,"Action, Crime, Drama",5.5,okay,152,really long movie
 733,2006,End Game,"Action, Crime, Drama",5.1,okay,93,really long movie
-734,2005,Fool's Gold,Comedy,6.4,good,90,really long movie
+734,2005,Fool's Gold,Comedy,6.4,good,90,no data
 735,2005,Hate Crime,"Crime, Drama, Mystery",6.3,good,103,really long movie
 736,2005,Heart of the Beholder,Drama,5.9,okay,106,really long movie
 737,2005,Hirsiz Var!,"Adventure, Comedy, Crime",4.3,okay,96,really long movie
 738,2005,Greener Mountains,"Drama, Romance",5.1,okay,89,avg length movie
 739,2005,Kaal,"Adventure, Horror, Mystery",4.6,okay,126,really long movie
 740,2005,Lemming,"Drama, Mystery, Thriller",6.7,good,129,really long movie
-741,2006,Keeping Up with the Steins,Comedy,5.3,okay,90,really long movie
+741,2006,Keeping Up with the Steins,Comedy,5.3,okay,90,no data
 742,2006,Fuera del cielo,"Crime, Drama, Thriller",5.6,okay,112,really long movie
 743,2005,Me and You and Everyone We Know,"Comedy, Drama",7.3,good,91,really long movie
-744,2005,River's End,"Action, Adventure, Crime",5.3,okay,90,really long movie
+744,2005,River's End,"Action, Adventure, Crime",5.3,okay,90,no data
 745,2006,Mr. Fix It,"Comedy, Romance",5.5,okay,93,really long movie
 746,2005,Para que no me olvides,Drama,7.0,good,100,really long movie
 747,2006,Peregon,"Comedy, Crime, Drama",6.4,good,140,really long movie
@@ -758,9 +758,9 @@
 756,2005,American Gun,Drama,6.1,good,95,really long movie
 757,2006,Bandidas,"Action, Comedy, Crime",5.7,okay,93,really long movie
 758,2005,Crazylove,"Comedy, Drama, Romance",6.1,good,95,really long movie
-759,2005,Dishdogz,"Action, Drama, Sport",5.3,okay,90,really long movie
+759,2005,Dishdogz,"Action, Drama, Sport",5.3,okay,90,no data
 760,2005,Elaan,"Action, Thriller",4.4,okay,159,really long movie
-761,2005,Glass Trap,"Action, Adventure, Comedy",2.9,bad,90,really long movie
+761,2005,Glass Trap,"Action, Adventure, Comedy",2.9,bad,90,no data
 762,2006,Jadesoturi,"Action, Adventure, Drama",5.9,okay,110,really long movie
 763,2006,Kalamazoo?,Comedy,4.9,okay,107,really long movie
 764,2005,The Kid & I,Comedy,5.3,okay,93,really long movie
@@ -780,7 +780,7 @@
 778,2006,Annapolis,"Drama, Romance, Sport",5.9,okay,108,really long movie
 779,2005,L'avion,"Drama, Fantasy, Mystery",5.7,okay,100,really long movie
 780,2005,Checking Out,Comedy,5.9,okay,94,really long movie
-781,2005,Confession,"Drama, Thriller",5.7,okay,90,really long movie
+781,2005,Confession,"Drama, Thriller",5.7,okay,90,no data
 782,2006,Dreamland,Drama,6.4,good,88,avg length movie
 783,2005,Factotum,"Comedy, Drama, Romance",6.6,good,94,really long movie
 784,2005,Forest of the Damned,Horror,2.7,bad,95,really long movie
@@ -802,7 +802,7 @@
 800,2006,The Surfer King,Comedy,3.6,okay,95,really long movie
 801,2005,Tickets,"Comedy, Drama",7.0,good,109,really long movie
 802,2005,TrashHouse,"Comedy, Horror",2.5,bad,82,avg length movie
-803,2006,The Virgin of Juarez,"Crime, Drama",4.7,okay,90,really long movie
+803,2006,The Virgin of Juarez,"Crime, Drama",4.7,okay,90,no data
 804,2005,Die Wilden Kerle 2,"Comedy, Family, Sport",4.2,okay,95,really long movie
 805,2005,Wish You Were Here,"Drama, Thriller",4.9,okay,83,avg length movie
 806,2006,5up 2down,Drama,5.2,okay,95,really long movie
@@ -848,7 +848,7 @@
 846,2005,Eighteen,Drama,6.3,good,106,really long movie
 847,2006,Find Me Guilty,"Biography, Comedy, Crime",7.0,good,125,really long movie
 848,2005,Gespenster,Drama,6.8,good,85,avg length movie
-849,2005,Graves End,"Thriller, Mystery",8.9,good,90,really long movie
+849,2005,Graves End,"Thriller, Mystery",8.9,good,90,no data
 850,2006,Holly,Drama,6.8,good,114,really long movie
 851,2005,Kim Novak badade aldrig i Genesarets sjö,"Crime, Drama",6.5,good,95,really long movie
 852,2005,Living 'til the End,"Drama, Romance",6.6,good,87,avg length movie
@@ -869,7 +869,7 @@
 867,2005,A Little Trip to Heaven,"Drama, Thriller",6.0,okay,98,really long movie
 868,2006,Man About Town,"Comedy, Drama",5.6,okay,96,really long movie
 869,2006,Opal Dream,"Drama, Family",6.6,good,85,avg length movie
-870,2005,Sauf le respect que je vous dois,Drama,6.2,good,90,really long movie
+870,2005,Sauf le respect que je vous dois,Drama,6.2,good,90,no data
 871,2005,Schläfer,Drama,6.3,good,99,really long movie
 872,2005,La guerra di Mario,Drama,6.6,good,100,really long movie
 873,2005,Shooting Dogs,"Drama, History, War",7.7,good,115,really long movie
@@ -879,7 +879,7 @@
 877,2006,Bickford Shmeckler's Cool Ideas,"Comedy, Romance",5.7,okay,79,avg length movie
 878,2005,Domino,"Action, Biography, Crime",5.9,okay,127,really long movie
 879,2005,Kontakt,"Drama, Romance",7.0,good,120,really long movie
-880,2005,Zerophilia,"Comedy, Romance",6.1,good,90,really long movie
+880,2005,Zerophilia,"Comedy, Romance",6.1,good,90,no data
 881,2006,Alpha Male,Drama,5.4,okay,100,really long movie
 882,2006,A New Wave,"Action, Crime",4.3,okay,93,really long movie
 883,2006,Gridiron Gang,"Biography, Crime, Drama",6.9,good,125,really long movie
@@ -892,15 +892,15 @@
 890,2006,9/Tenths,"Drama, Romance, Thriller",5.2,okay,98,really long movie
 891,2005,Anlat Istanbul,"Drama, Thriller",7.4,good,99,really long movie
 892,2006,Big Momma's House 2,"Comedy, Crime",4.7,okay,99,really long movie
-893,2005,El calentito,"Comedy, Music",5.8,okay,90,really long movie
+893,2005,El calentito,"Comedy, Music",5.8,okay,90,no data
 894,2005,Carambole,"Crime, Drama, Mystery",6.0,okay,102,really long movie
 895,2005,Les chevaliers du ciel,"Adventure, Action",5.8,okay,102,really long movie
 896,2005,Choker,"Horror, Action, Sci-Fi",2.6,bad,93,really long movie
-897,2005,Imagine Me & You,"Comedy, Drama, Romance",6.8,good,90,really long movie
+897,2005,Imagine Me & You,"Comedy, Drama, Romance",6.8,good,90,no data
 898,2005,Como un avión estrellado,"Comedy, Drama",6.7,good,80,avg length movie
 899,2005,Le couperet,"Comedy, Crime, Drama",7.4,good,117,really long movie
 900,2005,Curandero,Horror,4.9,okay,92,really long movie
-901,2005,La ravisseuse,Drama,6.0,okay,90,really long movie
+901,2005,La ravisseuse,Drama,6.0,okay,90,no data
 902,2005,Diary of a Mad Black Woman,"Comedy, Drama, Romance",5.7,okay,116,really long movie
 903,2005,Douches froides,Drama,6.1,good,102,really long movie
 904,2005,Frágiles,"Horror, Mystery, Thriller",6.1,good,101,really long movie
@@ -910,18 +910,18 @@
 908,2005,A Simple Curve,Drama,6.6,good,92,really long movie
 909,2005,Iki Genç Kiz,Drama,5.4,okay,107,really long movie
 910,2006,Intellectual Property,"Drama, Thriller",5.6,okay,81,avg length movie
-911,2005,Diep,Drama,6.3,good,90,really long movie
+911,2005,Diep,Drama,6.3,good,90,no data
 912,2005,Mallaki Iskandariya,"Crime, Drama, Mystery",7.0,good,95,really long movie
 913,2006,Marie Antoinette,"Biography, Drama, History",6.4,good,123,really long movie
 914,2006,Moreno & tystnaden,"Crime, Drama, Mystery",5.8,okay,91,really long movie
 915,2006,The Oh in Ohio,"Comedy, Drama, Romance",5.5,okay,88,avg length movie
-916,2006,La piste,"Adventure, Drama",5.5,okay,90,really long movie
+916,2006,La piste,"Adventure, Drama",5.5,okay,90,no data
 917,2005,Ranpo jigoku,"Fantasy, Horror",6.3,good,134,really long movie
 918,2005,Restart,Drama,5.9,okay,85,avg length movie
 919,2006,Sam's Lake,"Horror, Thriller",4.5,okay,92,really long movie
 920,2006,Sherrybaby,Drama,6.6,good,96,really long movie
 921,2006,Sonhos de Peixe,Drama,6.6,good,111,really long movie
-922,2005,Southern Belles,"Comedy, Romance",5.6,okay,90,really long movie
+922,2005,Southern Belles,"Comedy, Romance",5.6,okay,90,no data
 923,2005,This Revolution,"Drama, Romance, Thriller",5.5,okay,95,really long movie
 924,2006,El Cortez,"Drama, Thriller",5.3,okay,94,really long movie
 925,2005,Tjenare kungen,"Comedy, Drama, Music",6.0,okay,94,really long movie
@@ -930,7 +930,7 @@
 928,2005,Waterborne,Drama,5.5,okay,80,avg length movie
 929,2005,Way of the Vampire,"Action, Horror, Thriller",1.9,bad,82,avg length movie
 930,2005,L'amour aux trousses,"Crime, Comedy, Romance",4.8,okay,93,really long movie
-931,2005,Au suivant!,"Romance, Drama, Comedy",4.4,okay,90,really long movie
+931,2005,Au suivant!,"Romance, Drama, Comedy",4.4,okay,90,no data
 932,2005,Boudu,Comedy,5.3,okay,104,really long movie
 933,2005,Zim and Co.,Comedy,6.6,good,88,avg length movie
 934,2005,David & Layla,"Comedy, Drama, Romance",5.4,okay,106,really long movie
@@ -950,7 +950,7 @@
 948,2006,The Book of Revelation,"Crime, Drama, Mystery",5.3,okay,118,really long movie
 949,2006,Bristol Boys,"Crime, Drama",5.7,okay,88,avg length movie
 950,2006,Candy,"Drama, Romance",7.3,good,116,really long movie
-951,2006,The Choke,"Thriller, Horror",3.4,okay,90,really long movie
+951,2006,The Choke,"Thriller, Horror",3.4,okay,90,no data
 952,2006,Copying Beethoven,"Biography, Drama, Music",6.8,good,104,really long movie
 953,2006,Karla,"Crime, Drama, Thriller",5.5,okay,99,really long movie
 954,2005,Disaster!,"Animation, Comedy, Sci-Fi",5.0,okay,83,avg length movie
@@ -969,7 +969,7 @@
 967,2005,The Fine Art of Love: Mine Ha-Ha,"Drama, Mystery",5.5,okay,102,really long movie
 968,2006,Like Minds,"Crime, Horror, Mystery",6.3,good,110,really long movie
 969,2005,Almost Heaven,"Drama, Comedy, Music",5.7,okay,102,really long movie
-970,2005,Long Distance,"Horror, Thriller",5.2,okay,90,really long movie
+970,2005,Long Distance,"Horror, Thriller",5.2,okay,90,no data
 971,2006,Lucky Number Slevin,"Crime, Drama, Mystery",7.7,good,110,really long movie
 972,2005,Malek wa ketaba,Drama,6.0,okay,120,really long movie
 973,2006,Drømmen,"Drama, Family",7.3,good,109,really long movie
@@ -982,13 +982,13 @@
 980,2005,Pardon,"Comedy, Drama",8.2,good,94,really long movie
 981,2006,The Pleasure Drivers,"Crime, Drama, Thriller",4.4,okay,99,really long movie
 982,2006,Pope Dreams,Drama,6.8,good,105,really long movie
-983,2005,Pusher III,"Crime, Drama, Thriller",7.3,good,90,really long movie
+983,2005,Pusher III,"Crime, Drama, Thriller",7.3,good,90,no data
 984,2006,Relative Strangers,Comedy,5.3,okay,86,avg length movie
 985,2005,Runaway,"Drama, Thriller",6.6,good,80,avg length movie
 986,2005,Sans Kapiyi Kirinca,Comedy,6.2,good,107,really long movie
 987,2005,Den store dag,"Comedy, Romance",5.4,okay,95,really long movie
 988,2005,La suerte está echada,Comedy,7.1,good,97,really long movie
-989,2005,Touched,"Drama, Romance",5.8,okay,90,really long movie
+989,2005,Touched,"Drama, Romance",5.8,okay,90,no data
 990,2006,Tre,"Drama, Romance",4.8,okay,87,avg length movie
 991,2005,"Sorry, Haters","Drama, Thriller",6.2,good,83,avg length movie
 992,2006,Trailer Park Boys: The Movie,"Comedy, Crime",7.2,good,95,really long movie
@@ -1020,7 +1020,7 @@
 1018,2006,Alpha Dog,"Biography, Crime, Drama",6.9,good,118,really long movie
 1019,2005,Apocalypse and the Beauty Queen,Fantasy,2.7,bad,95,really long movie
 1020,2005,Blízko nebe,"Comedy, Drama",4.7,okay,96,really long movie
-1021,2005,Cavalcade,"Biography, Drama",4.6,okay,90,really long movie
+1021,2005,Cavalcade,"Biography, Drama",4.6,okay,90,no data
 1022,2005,Cayo,Drama,6.3,good,112,really long movie
 1023,2006,Confetti,"Comedy, Music, Romance",5.7,okay,100,really long movie
 1024,2005,Egreti gelin,Drama,6.2,good,100,really long movie
@@ -1036,7 +1036,7 @@
 1034,2005,Studio 666,"Horror, Music, Sci-Fi",3.0,okay,76,avg length movie
 1035,2006,Shadow: Dead Riot,"Action, Horror",4.0,okay,81,avg length movie
 1036,2005,Slunecní stát aneb hrdinové delnické trídy,"Comedy, Drama",6.7,good,95,really long movie
-1037,2005,Stillwater,Thriller,4.2,okay,90,really long movie
+1037,2005,Stillwater,Thriller,4.2,okay,90,no data
 1038,2005,Strákarnir okkar,"Comedy, Drama, Romance",5.0,okay,85,avg length movie
 1039,2005,Trip Out,Drama,4.8,okay,93,really long movie
 1040,2005,Lupaus,"Drama, War",6.4,good,112,really long movie
@@ -1057,12 +1057,12 @@
 1055,2005,Severed,"Horror, Sci-Fi, Thriller",4.6,okay,93,really long movie
 1056,2005,Crustacés & coquillages,"Comedy, Musical, Romance",6.6,good,96,really long movie
 1057,2006,The Darwin Awards,"Adventure, Comedy, Romance",6.0,okay,94,really long movie
-1058,2005,Le démon de midi,Comedy,4.6,okay,90,really long movie
+1058,2005,Le démon de midi,Comedy,4.6,okay,90,no data
 1059,2005,Les enfants,Comedy,5.8,okay,88,avg length movie
 1060,2005,La fiesta del Chivo,Drama,6.4,good,132,really long movie
 1061,2006,Five Fingers,"Drama, Thriller",6.4,good,87,avg length movie
 1062,2005,Fluerne på væggen,Thriller,5.5,okay,92,really long movie
-1063,2005,Guernsey,Drama,6.1,good,90,really long movie
+1063,2005,Guernsey,Drama,6.1,good,90,no data
 1064,2006,Hui Buh: Das Schlossgespenst,"Animation, Adventure, Come",4.6,okay,103,really long movie
 1065,2005,I Am a Sex Addict,"Biography, Comedy, Romance",6.0,okay,98,really long movie
 1066,2005,Il était une fois dans l'oued,Comedy,4.8,okay,93,really long movie
@@ -1079,7 +1079,7 @@
 1077,2006,The Second Chance,Drama,6.6,good,102,really long movie
 1078,2005,Qi jian,"Action, Adventure, Fantasy",6.2,good,153,really long movie
 1079,2005,Siegfried,Comedy,3.6,okay,89,avg length movie
-1080,2006,Splinter,"Crime, Thriller",4.8,okay,90,really long movie
+1080,2006,Splinter,"Crime, Thriller",4.8,okay,90,no data
 1081,2005,Tara Road,Drama,6.0,okay,97,really long movie
 1082,2005,The Tenants,"Crime, Drama, Romance",5.2,okay,93,really long movie
 1083,2005,The Thing About My Folks,"Comedy, Drama",6.5,good,96,really long movie
@@ -1088,15 +1088,15 @@
 1086,2005,La vie est à nous!,Comedy,4.7,okay,100,really long movie
 1087,2005,Virgil,"Comedy, Drama, Sport",6.5,good,93,really long movie
 1088,2005,Voici venu le temps,"Comedy, Drama",5.3,okay,92,really long movie
-1089,2006,Zyzzyx Rd,"Crime, Drama, Thriller",4.0,okay,90,really long movie
-1090,2005,50 Ways of Saying Fabulous,Drama,5.6,okay,90,really long movie
+1089,2006,Zyzzyx Rd,"Crime, Drama, Thriller",4.0,okay,90,no data
+1090,2005,50 Ways of Saying Fabulous,Drama,5.6,okay,90,no data
 1091,2005,An American Haunting,"Drama, History, Horror",5.1,okay,83,avg length movie
 1092,2006,The Ant Bully,"Animation, Adventure, Come",5.8,okay,88,avg length movie
 1093,2006,Aquamarine,"Comedy, Family, Fantasy",5.3,okay,104,really long movie
 1094,2006,Así del precipicio,Drama,5.1,okay,110,really long movie
 1095,2005,The Business,"Crime, Drama, Thriller",6.7,good,97,really long movie
 1096,2006,Il caimano,"Comedy, Drama, Romance",6.7,good,112,really long movie
-1097,2005,O Casamento de Romeu e Julieta,"Comedy, Romance",6.2,good,90,really long movie
+1097,2005,O Casamento de Romeu e Julieta,"Comedy, Romance",6.2,good,90,no data
 1098,2005,The Clan,"Comedy, Musical",3.6,okay,95,really long movie
 1099,2005,Cuore sacro,Drama,6.4,good,120,really long movie
 1100,2006,Elementarteilchen,"Drama, Romance",6.6,good,113,really long movie
@@ -1105,7 +1105,7 @@
 1103,2006,Sandwich,"Comedy, Thriller",5.4,okay,152,really long movie
 1104,2005,L'enfer,Drama,6.8,good,102,really long movie
 1105,2005,It Waits,Horror,4.0,okay,88,avg length movie
-1106,2005,Johan,"Drama, Romance",6.0,okay,90,really long movie
+1106,2005,Johan,"Drama, Romance",6.0,okay,90,no data
 1107,2005,Joyride,"Adventure, Crime, Drama",4.9,okay,87,avg length movie
 1108,2005,Pervyy posle Boga,"Action, Drama, War",5.5,okay,99,really long movie
 1109,2006,Little Man,"Comedy, Crime",4.4,okay,98,really long movie
@@ -1134,9 +1134,9 @@
 1132,2006,Hollywood Dreams,"Comedy, Drama, Romance",4.2,okay,100,really long movie
 1133,2005,Im Schwitzkasten,"Comedy, Drama",5.9,okay,95,really long movie
 1134,2005,Jogo Subterrâneo,"Romance, Drama",6.8,good,109,really long movie
-1135,2005,Joseph Smith: Prophet of the Restoration,"Biography, Drama, History",7.8,good,60,avg length movie
+1135,2005,Joseph Smith: Prophet of the Restoration,"Biography, Drama, History",7.8,good,60,no data
 1136,2005,Lassie,"Adventure, Comedy, Drama",6.7,good,100,really long movie
-1137,2006,La perrera,Drama,5.9,okay,90,really long movie
+1137,2006,La perrera,Drama,5.9,okay,90,no data
 1138,2005,Der Schatz der weißen Falken,"Family, Adventure",6.9,good,92,really long movie
 1139,2005,Steget efter,"Crime, Mystery, Thriller",6.1,good,101,really long movie
 1140,2005,Stinger,"Action, Adventure, Comedy",1.9,bad,97,really long movie
@@ -1166,13 +1166,13 @@
 1164,2006,Live Free or Die,"Comedy, Crime",5.5,okay,89,avg length movie
 1165,2005,Die Höhle des gelben Hundes,"Drama, Family",7.6,good,93,really long movie
 1166,2005,Saw II,"Horror, Mystery",6.6,good,93,really long movie
-1167,2006,Factory Girl,"Biography, Drama",6.5,good,90,really long movie
+1167,2006,Factory Girl,"Biography, Drama",6.5,good,90,no data
 1168,2005,Rag Tale,"Comedy, Romance, Drama",3.9,okay,123,really long movie
 1169,2006,Krrish,"Action, Sci-Fi",6.3,good,185,really long movie
 1170,2006,The Way Back Home,"Drama, Family",5.7,okay,93,really long movie
 1171,2005,Mørke,"Drama, Thriller",6.8,good,124,really long movie
 1172,2005,Otros días vendrán,Drama,6.4,good,104,really long movie
-1173,2005,Papá se volvió loco,Comedy,3.5,okay,90,really long movie
+1173,2005,Papá se volvió loco,Comedy,3.5,okay,90,no data
 1174,2005,"Quo Vadis, Baby?","Drama, Thriller",6.2,good,102,really long movie
 1175,2005,Looking for Comedy in the Muslim World,Comedy,5.4,okay,98,really long movie
 1176,2005,Gonggongui jeog 2,"Action, Drama",6.0,okay,148,really long movie
@@ -1192,7 +1192,7 @@
 1190,2005,Wild Country,Horror,4.3,okay,67,avg length movie
 1191,2005,Paper Moon Affair,"Drama, Romance",5.5,okay,82,avg length movie
 1192,2006,Il regista di matrimoni,"Drama, Mystery, Romance",6.2,good,97,really long movie
-1193,2006,Nachtrit,"Crime, Drama, Thriller",6.9,good,90,really long movie
+1193,2006,Nachtrit,"Crime, Drama, Thriller",6.9,good,90,no data
 1194,2005,Ausentes,Thriller,4.9,okay,91,really long movie
 1195,2005,A golpes,Drama,4.5,okay,113,really long movie
 1196,2006,Dark Ride,"Horror, Thriller",4.6,okay,94,really long movie
@@ -1203,7 +1203,7 @@
 1201,2005,Lucid,"Comedy, Drama, Mystery",6.5,good,92,really long movie
 1202,2005,La maldición del padre Cardona,"Comedy, Drama, Romance",3.7,okay,106,really long movie
 1203,2006,Flicka,"Adventure, Drama, Family",6.1,good,95,really long movie
-1204,2005,O dve slabiky pozadu,"Romance, Drama",7.1,good,90,really long movie
+1204,2005,O dve slabiky pozadu,"Romance, Drama",7.1,good,90,no data
 1205,2005,Princesas,Drama,7.0,good,113,really long movie
 1206,2005,Reinas,"Comedy, Romance",6.5,good,107,really long movie
 1207,2005,Snow White,Drama,5.8,okay,111,really long movie
@@ -1215,7 +1215,7 @@
 1213,2005,Jing mo gaa ting,"Action, Comedy",6.1,good,102,really long movie
 1214,2005,La neuvaine,Drama,7.5,good,97,really long movie
 1215,2005,Se Arrienda,Drama,6.7,good,109,really long movie
-1216,2005,Gabrielle,"Drama, Romance",6.2,good,90,really long movie
+1216,2005,Gabrielle,"Drama, Romance",6.2,good,90,no data
 1217,2006,Volando voy,Drama,6.3,good,115,really long movie
 1218,2005,3° kälter,"Drama, Romance",5.7,okay,104,really long movie
 1219,2005,The Adventures of Greyfriars Bobby,"Adventure, Family, History",6.1,good,104,really long movie
@@ -1256,9 +1256,9 @@
 1254,2005,Noksaek uija,"Drama, Romance",6.2,good,98,really long movie
 1255,2005,The Puffy Chair,"Comedy, Drama, Romance",6.5,good,85,avg length movie
 1256,2006,The Queen,"Biography, Drama, History",7.3,good,103,really long movie
-1257,2005,Le roman de Renart,Animation,5.0,okay,90,really long movie
-1258,2005,The Salon,"Comedy, Drama",4.1,okay,90,really long movie
-1259,2005,La vie de Michel Muller est plus belle que la vôtre,Comedy,4.6,okay,90,really long movie
+1257,2005,Le roman de Renart,Animation,5.0,okay,90,no data
+1258,2005,The Salon,"Comedy, Drama",4.1,okay,90,no data
+1259,2005,La vie de Michel Muller est plus belle que la vôtre,Comedy,4.6,okay,90,no data
 1260,2005,Die weiße Massai,"Drama, Romance",6.5,good,131,really long movie
 1261,2005,"Zaïna, cavalière de l'Atlas","Adventure, Drama",5.6,okay,100,really long movie
 1262,2005,Zoop in Afrika,"Comedy, Adventure, Drama",5.0,okay,85,avg length movie
@@ -1266,7 +1266,7 @@
 1264,2006,East Side Story,"Comedy, Romance",6.6,good,88,avg length movie
 1265,2006,See No Evil,"Action, Horror, Thriller",5.1,okay,84,avg length movie
 1266,2006,Family: Ties of Blood,"Action, Crime, Drama",5.6,okay,150,really long movie
-1267,2005,Headhunter,"Thriller, Horror",4.6,okay,90,really long movie
+1267,2005,Headhunter,"Thriller, Horror",4.6,okay,90,no data
 1268,2005,Horloge biologique,Comedy,7.1,good,100,really long movie
 1269,2006,Catch a Fire,"Biography, Drama, History",6.7,good,101,really long movie
 1270,2005,Kaksipäisen kotkan varjossa,"Drama, History, Musical",3.1,okay,113,really long movie
@@ -1284,8 +1284,8 @@
 1282,2005,The Path of Evil,"Drama, Horror",3.6,okay,113,really long movie
 1283,2006,Peaceful Warrior,"Drama, Romance, Sport",7.3,good,120,really long movie
 1284,2006,Noel: Poeta da Vila,Drama,6.8,good,99,really long movie
-1285,2005,Side Effects,"Comedy, Drama, Romance",4.9,okay,90,really long movie
-1286,2005,...e se domani,Comedy,6.0,okay,90,really long movie
+1285,2005,Side Effects,"Comedy, Drama, Romance",4.9,okay,90,no data
+1286,2005,...e se domani,Comedy,6.0,okay,90,no data
 1287,2006,Ten 'til Noon,"Crime, Mystery, Thriller",5.5,okay,83,avg length movie
 1288,2005,Ultranova,Drama,6.4,good,84,avg length movie
 1289,2005,La trahison,"Drama, War",6.6,good,80,avg length movie
@@ -1304,7 +1304,7 @@
 1302,2005,Private Moments,"Drama, Romance",3.6,okay,85,avg length movie
 1303,2006,Running with Scissors,"Comedy, Drama",6.2,good,116,really long movie
 1304,2006,Cut Off,"Action, Drama",3.9,okay,85,avg length movie
-1305,2005,Three Bad Men,Western,2.8,bad,90,really long movie
+1305,2005,Three Bad Men,Western,2.8,bad,90,no data
 1306,2005,All That I Need,"Comedy, Drama",5.8,okay,80,avg length movie
 1307,2005,The Boynton Beach Bereavement Club,"Comedy, Romance",6.4,good,105,really long movie
 1308,2005,Brothers in Arms,Western,2.3,bad,85,avg length movie
@@ -1322,13 +1322,13 @@
 1320,2005,Kraftverk 3714,"Thriller, Horror, Mystery",3.3,okay,136,really long movie
 1321,2006,Fanaa,"Drama, Romance",7.2,good,168,really long movie
 1322,2005,Leydi Zi,Drama,6.2,good,96,really long movie
-1323,2005,Mobsters and Mormons,Comedy,6.3,good,90,really long movie
+1323,2005,Mobsters and Mormons,Comedy,6.3,good,90,no data
 1324,2005,Monarch of the Moon,"Action, Comedy, Sci-Fi",5.7,okay,98,really long movie
 1325,2005,Mumbai Express,"Action, Comedy",5.8,okay,152,really long movie
 1326,2006,Pacala se întoarce,Comedy,4.7,okay,150,really long movie
 1327,2006,Paid,"Crime, Romance, Thriller",4.7,okay,100,really long movie
 1328,2005,Pyaar Mein Twist,"Comedy, Drama, Musical",5.9,okay,123,really long movie
-1329,2005,Pissed,Drama,4.6,okay,90,really long movie
+1329,2005,Pissed,Drama,4.6,okay,90,no data
 1330,2006,Slither,"Comedy, Horror, Sci-Fi",6.4,good,95,really long movie
 1331,2005,Solntse,"Drama, History",7.3,good,110,really long movie
 1332,2006,Steel City,"Crime, Drama, Thriller",6.5,good,95,really long movie
@@ -1336,13 +1336,13 @@
 1334,2005,These Foolish Things,"Comedy, Drama, Romance",5.6,okay,107,really long movie
 1335,2006,Tu vida en 65',"Drama, Romance",6.9,good,100,really long movie
 1336,2005,Den utvalde,"Crime, Thriller",5.0,okay,100,really long movie
-1337,2005,Before It Had a Name,"Drama, Romance",3.2,okay,90,really long movie
+1337,2005,Before It Had a Name,"Drama, Romance",3.2,okay,90,no data
 1338,2006,Wu Qingyuan,"Biography, Drama, Romance",6.3,good,104,really long movie
 1339,2005,Yek boos-e koochooloo,Drama,6.6,good,100,really long movie
 1340,2005,The Headsman,Drama,6.1,good,115,really long movie
 1341,2005,Made in YU,"Drama, Action",6.4,good,105,really long movie
 1342,2005,Pryamokhozhdenie,"Drama, Sci-Fi",6.2,good,94,really long movie
-1343,2006,Beautiful Dreamer,Drama,6.2,good,90,really long movie
+1343,2006,Beautiful Dreamer,Drama,6.2,good,90,no data
 1344,2006,Strajk - Die Heldin von Danzig,Drama,6.8,good,104,really long movie
 1345,2005,Otkradnati ochi,"Drama, History",7.0,good,110,really long movie
 1346,2006,Soft Target,Action,4.0,okay,93,really long movie
@@ -1360,7 +1360,7 @@
 1358,2005,Bam Bam and Celeste,Comedy,5.2,okay,85,avg length movie
 1359,2005,The Cabinet of Dr. Caligari,"Drama, Horror, Mystery",5.8,okay,76,avg length movie
 1360,2006,Cyxork 7,"Comedy, Sci-Fi",4.3,okay,92,really long movie
-1361,2005,Free Zone,"Comedy, Drama",5.7,okay,90,really long movie
+1361,2005,Free Zone,"Comedy, Drama",5.7,okay,90,no data
 1362,2006,Ein Freund von mir,"Comedy, Drama",6.9,good,84,avg length movie
 1363,2006,Lonely Hearts,"Biography, Crime, Drama",6.4,good,108,really long movie
 1364,2005,Sharkskin 6,Crime,4.0,okay,100,really long movie
@@ -1368,7 +1368,7 @@
 1366,2006,A Woman in Winter,Drama,5.9,okay,100,really long movie
 1367,2005,Thommanum Makkalum,"Action, Comedy, Drama",6.5,good,118,really long movie
 1368,2006,Volver,"Comedy, Drama",7.6,good,121,really long movie
-1369,2006,Enfermés dehors,Comedy,6.2,good,90,really long movie
+1369,2006,Enfermés dehors,Comedy,6.2,good,90,no data
 1370,2006,Fuga,"Drama, Music, Thriller",6.4,good,110,really long movie
 1371,2006,Interferencia,"Horror, Thriller",3.0,okay,86,avg length movie
 1372,2005,Morir en San Hilario,Comedy,6.3,good,95,really long movie
@@ -1382,7 +1382,7 @@
 1380,2005,Eine andere Liga,"Drama, Sport",6.7,good,100,really long movie
 1381,2005,Eläville ja kuolleille,"Biography, Drama",6.7,good,95,really long movie
 1382,2005,Iberia,"Documentary, Musical",7.0,good,99,really long movie
-1383,2005,Entre ses mains,Drama,6.3,good,90,really long movie
+1383,2005,Entre ses mains,Drama,6.3,good,90,no data
 1384,2005,Katze im Sack,Drama,6.0,okay,87,avg length movie
 1385,2005,Das Lächeln der Tiefseefische,Drama,6.3,good,86,avg length movie
 1386,2005,El sueño de una noche de San Juan,"Animation, Drama, Romance",4.8,okay,85,avg length movie
@@ -1398,7 +1398,7 @@
 1396,2005,Verlengd weekend,"Comedy, Drama",6.5,good,93,really long movie
 1397,2006,Écoute le temps,"Crime, Drama, Mystery",5.9,okay,87,avg length movie
 1398,2006,Another Gay Movie,"Comedy, Romance",4.9,okay,92,really long movie
-1399,2006,The Beach Party at the Threshold of Hell,Comedy,4.0,okay,90,really long movie
+1399,2006,The Beach Party at the Threshold of Hell,Comedy,4.0,okay,90,no data
 1400,2005,La bestia nel cuore,"Drama, Mystery",6.4,good,120,really long movie
 1401,2006,O Jerusalem,"Drama, History",6.1,good,100,really long movie
 1402,2006,Borat: Cultural Learnings of America for Make Benef,Comedy,7.3,good,84,avg length movie
@@ -1420,7 +1420,7 @@
 1418,2005,Left Behind III: World at War,"Action, Drama, Fantasy",4.6,okay,95,really long movie
 1419,2005,Melissa P.,Drama,4.8,okay,100,really long movie
 1420,2005,Naina,"Drama, Horror, Mystery",4.3,okay,104,really long movie
-1421,2005,"Paradise, Texas",Drama,5.7,okay,90,really long movie
+1421,2005,"Paradise, Texas",Drama,5.7,okay,90,no data
 1422,2005,Red Mercury,"Crime, Drama, Thriller",5.1,okay,109,really long movie
 1423,2006,Scorpius Gigantus,"Action, Adventure, Comedy",2.1,bad,91,really long movie
 1424,2006,The Sentinel,"Action, Crime, Thriller",6.1,good,108,really long movie
@@ -1437,15 +1437,15 @@
 1435,2005,J'ai vu tuer Ben Barka,Drama,5.8,okay,101,really long movie
 1436,2006,Selon Charlie,Drama,5.1,okay,140,really long movie
 1437,2005,Torrente 3: El protector,"Comedy, Crime",5.6,okay,91,really long movie
-1438,2006,Un ticket pour l'espace,"Comedy, Sci-Fi",5.3,okay,90,really long movie
+1438,2006,Un ticket pour l'espace,"Comedy, Sci-Fi",5.3,okay,90,no data
 1439,2005,Falscher Bekenner,"Drama, Thriller",6.3,good,94,really long movie
 1440,2006,Fay Grim,"Action, Comedy, Thriller",6.2,good,118,really long movie
 1441,2006,Forgiven,Drama,6.5,good,81,avg length movie
 1442,2006,Halim,"Biography, Drama, Music",6.0,okay,155,really long movie
 1443,2006,Punk Love,Drama,6.0,okay,102,really long movie
 1444,2005,Keeping Mum,"Comedy, Crime",6.8,good,99,really long movie
-1445,2005,Miracle at Sage Creek,"Action, Drama, Family",5.5,okay,90,really long movie
-1446,2005,The Naked Brothers Band: The Movie,"Comedy, Family, Music",3.8,okay,90,really long movie
+1445,2005,Miracle at Sage Creek,"Action, Drama, Family",5.5,okay,90,no data
+1446,2005,The Naked Brothers Band: The Movie,"Comedy, Family, Music",3.8,okay,90,no data
 1447,2005,A Sublime Love Story: Barsaat,"Drama, Romance",4.0,okay,143,really long movie
 1448,2005,Blackmail,"Action, Drama, Thriller",4.1,okay,126,really long movie
 1449,2005,Deewane Huye Paagal,"Action, Comedy, Drama",5.3,okay,158,really long movie
@@ -1466,8 +1466,8 @@
 1464,2005,Paradise Now,"Crime, Drama, Thriller",7.4,good,91,really long movie
 1465,2005,Röövlirahnu Martin,"Comedy, Family, Fantasy",6.4,good,75,avg length movie
 1466,2006,Salvador (Puig Antich),"Biography, Drama, History",7.3,good,134,really long movie
-1467,2005,Sangre,Drama,5.9,okay,90,really long movie
-1468,2005,Somne,"Horror, Sci-Fi, Thriller",4.5,okay,90,really long movie
+1467,2005,Sangre,Drama,5.9,okay,90,no data
+1468,2005,Somne,"Horror, Sci-Fi, Thriller",4.5,okay,90,no data
 1469,2005,Stiilipidu,"Comedy, Drama",6.1,good,110,really long movie
 1470,2005,Tian bian yi duo yun,"Comedy, Drama, Musical",6.5,good,114,really long movie
 1471,2005,U-Carmen eKhayelitsha,"Musical, Drama, Romance",6.6,good,122,really long movie
@@ -1482,7 +1482,7 @@
 1480,2006,Take the Lead,"Drama, Music",6.6,good,118,really long movie
 1481,2006,Huo Yuan Jia,"Action, Biography, Drama",7.6,good,104,really long movie
 1482,2005,America 101,Comedy,5.4,okay,86,avg length movie
-1483,2005,Far til fire gi'r aldrig op,"Comedy, Family",4.4,okay,90,really long movie
+1483,2005,Far til fire gi'r aldrig op,"Comedy, Family",4.4,okay,90,no data
 1484,2005,Achuvinte Amma,"Comedy, Drama, Family",6.9,good,130,really long movie
 1485,2006,Civic Duty,"Drama, Thriller",6.2,good,98,really long movie
 1486,2005,Death by Engagement,"Horror, Comedy",4.0,okay,99,really long movie
@@ -1507,21 +1507,21 @@
 1505,2005,Mutual Appreciation,Comedy,6.7,good,109,really long movie
 1506,2006,The Painted Veil,"Drama, Romance",7.5,good,125,really long movie
 1507,2006,Red Ridge,"Action, Drama, Thriller",4.3,okay,89,avg length movie
-1508,2005,Rh+,"Action, Crime, Thriller",2.7,bad,90,really long movie
+1508,2005,Rh+,"Action, Crime, Thriller",2.7,bad,90,no data
 1509,2005,Elephant Shoes,Romance,6.6,good,80,avg length movie
 1510,2006,Leiutajateküla Lotte,"Animation, Comedy, Family",7.2,good,81,avg length movie
 1511,2006,Ruudi,"Comedy, Family, Fantasy",5.9,okay,112,really long movie
 1512,2006,Tramvay,"Crime, Drama, Horror",5.9,okay,83,avg length movie
 1513,2006,Le concile de pierre,"Adventure, Crime, Drama",4.8,okay,102,really long movie
 1514,2005,Fink!,Action,3.6,okay,102,really long movie
-1515,2005,En folkefiende,Drama,5.2,okay,90,really long movie
-1516,2005,Import-eksport,"Comedy, Drama",5.5,okay,90,really long movie
+1515,2005,En folkefiende,Drama,5.2,okay,90,no data
+1516,2005,Import-eksport,"Comedy, Drama",5.5,okay,90,no data
 1517,2005,Het paard van Sinterklaas,"Drama, Family",7.0,good,95,really long movie
 1518,2006,Mare nero,"Drama, Romance",4.7,okay,83,avg length movie
 1519,2005,The F Word,Drama,6.5,good,85,avg length movie
 1520,2006,Hot Tamale,"Action, Comedy, Crime",5.6,okay,102,really long movie
 1521,2006,Alien Incursion,"Comedy, Horror, Sci-Fi",2.2,bad,86,avg length movie
-1522,2006,Inexchange,Horror,4.0,okay,90,really long movie
+1522,2006,Inexchange,Horror,4.0,okay,90,no data
 1523,2005,Keine Lieder über Liebe,"Drama, Music, Romance",6.5,good,98,really long movie
 1524,2005,"Let Us Go and Burn Her Body; Or, The Devil Done Let","Fantasy, Horror, Mystery",1.7,bad,112,really long movie
 1525,2006,The Night Listener,"Crime, Drama, Mystery",5.9,okay,91,really long movie
@@ -1551,9 +1551,9 @@
 1549,2005,Ordinary Man,Thriller,6.4,good,103,really long movie
 1550,2006,Se Eu Fosse Você,Comedy,6.1,good,108,really long movie
 1551,2005,American Fusion,"Comedy, Romance",5.7,okay,94,really long movie
-1552,2005,Chicken Tikka Masala,"Comedy, Drama, Romance",5.6,okay,90,really long movie
+1552,2005,Chicken Tikka Masala,"Comedy, Drama, Romance",5.6,okay,90,no data
 1553,2006,Eragon,"Action, Adventure, Family",5.1,okay,104,really long movie
-1554,2005,Es ist ein Elch entsprungen,"Comedy, Family, Fantasy",4.8,okay,90,really long movie
+1554,2005,Es ist ein Elch entsprungen,"Comedy, Family, Fantasy",4.8,okay,90,no data
 1555,2006,Little Miss Sunshine,"Comedy, Drama",7.8,good,101,really long movie
 1556,2005,London,"Drama, Romance",6.5,good,92,really long movie
 1557,2005,Lost in Plainview,"Action, Thriller",4.2,okay,93,really long movie
@@ -1568,7 +1568,7 @@
 1566,2006,Siren,"Comedy, Drama, Music",2.7,bad,87,avg length movie
 1567,2005,Zameer,"Drama, Romance",2.9,bad,137,really long movie
 1568,2006,Babel,Drama,7.4,good,143,really long movie
-1569,2005,Purple Heart,"Action, Drama, Thriller",5.2,okay,90,really long movie
+1569,2005,Purple Heart,"Action, Drama, Thriller",5.2,okay,90,no data
 1570,2005,"Dishab babato didam, Aida",Drama,5.7,okay,85,avg length movie
 1571,2005,Bang Bang Orangutang,Drama,4.9,okay,106,really long movie
 1572,2005,P,"Drama, Horror",5.1,okay,110,really long movie
@@ -1583,7 +1583,7 @@
 1581,2005,Ot 180 i vyshe,Comedy,5.5,okay,104,really long movie
 1582,2005,Qing ren jie,"Drama, Romance",6.8,good,113,really long movie
 1583,2006,Rosso come il cielo,Drama,7.8,good,96,really long movie
-1584,2005,Salad-e fasl,"Crime, Drama, Romance",5.2,okay,90,really long movie
+1584,2005,Salad-e fasl,"Crime, Drama, Romance",5.2,okay,90,no data
 1585,2006,The End of Silence,Drama,5.5,okay,94,really long movie
 1586,2005,Statskiy sovetnik,"Drama, Crime",7.1,good,191,really long movie
 1587,2006,16 Blocks,"Action, Crime, Drama",6.6,good,102,really long movie
@@ -1593,11 +1593,11 @@
 1591,2005,Hostel,Horror,5.9,okay,94,really long movie
 1592,2006,Unknown,"Crime, Drama, Mystery",6.5,good,85,avg length movie
 1593,2006,The Wicker Man,"Horror, Mystery, Thriller",3.7,okay,102,really long movie
-1594,2005,Love,"Drama, Thriller",6.5,good,90,really long movie
+1594,2005,Love,"Drama, Thriller",6.5,good,90,no data
 1595,2005,Puzzlehead,"Drama, Sci-Fi",5.6,okay,81,avg length movie
 1596,2005,Gilane,"Drama, War",6.8,good,80,avg length movie
 1597,2006,Ik omhels je met 1000 armen,"Comedy, Drama, Romance",6.6,good,110,really long movie
-1598,2005,Italyanets,Drama,7.5,good,90,really long movie
+1598,2005,Italyanets,Drama,7.5,good,90,no data
 1599,2005,Odete,Drama,5.8,okay,101,really long movie
 1600,2006,Suburban Mayhem,"Comedy, Drama, Thriller",5.8,okay,95,really long movie
 1601,2006,L'entente cordiale,Comedy,4.5,okay,100,really long movie
@@ -1611,7 +1611,7 @@
 1609,2005,Chakushin ari 2,"Horror, Mystery",5.4,okay,105,really long movie
 1610,2006,Death Ride,"Horror, Thriller",2.5,bad,84,avg length movie
 1611,2005,The Derby Stallion,Drama,5.6,okay,99,really long movie
-1612,2005,Frankenstein vs. the Creature from Blood Cove,Horror,3.9,okay,90,really long movie
+1612,2005,Frankenstein vs. the Creature from Blood Cove,Horror,3.9,okay,90,no data
 1613,2005,The Gospel,"Drama, Music",4.9,okay,105,really long movie
 1614,2005,A Halfway House Christmas,Comedy,4.1,okay,50,short movie
 1615,2005,Insecticidal,"Horror, Thriller",3.2,okay,81,avg length movie
@@ -1619,14 +1619,14 @@
 1617,2005,The Land of College Prophets,"Action, Fantasy, Horror",3.3,okay,83,avg length movie
 1618,2006,The Lost,"Crime, Drama, Thriller",5.9,okay,119,really long movie
 1619,2005,Mezon do Himiko,Drama,7.0,good,130,really long movie
-1620,2005,Moussaka & Chips,Adventure,7.2,good,90,really long movie
+1620,2005,Moussaka & Chips,Adventure,7.2,good,90,no data
 1621,2006,Mustang Sally,"Action, Horror, Thriller",3.4,okay,85,avg length movie
 1622,2006,My Brother,Drama,5.6,okay,100,really long movie
-1623,2005,Aunt Rose,Horror,3.8,okay,90,really long movie
+1623,2005,Aunt Rose,Horror,3.8,okay,90,no data
 1624,2005,Pistvakt,"Comedy, Drama, Family",5.3,okay,91,really long movie
 1625,2006,Pray for Morning,"Horror, Thriller",4.5,okay,91,really long movie
 1626,2006,Premium,"Comedy, Drama, Romance",5.8,okay,97,really long movie
-1627,2006,Quinceañera,Drama,7.0,good,90,really long movie
+1627,2006,Quinceañera,Drama,7.0,good,90,no data
 1628,2006,Room 6,"Horror, Mystery, Thriller",4.2,okay,94,really long movie
 1629,2006,The Elephant King,"Drama, Romance",6.3,good,92,really long movie
 1630,2005,The Toybox,"Horror, Mystery, Thriller",3.8,okay,81,avg length movie
@@ -1657,7 +1657,7 @@
 1655,2005,Balkanska braca,"Comedy, Drama",5.6,okay,87,avg length movie
 1656,2006,Krojaceva tajna,"Drama, Horror, Mystery",3.0,okay,75,avg length movie
 1657,2006,No. 2,"Comedy, Drama",6.6,good,94,really long movie
-1658,2005,Ah sou,"Crime, Drama",4.6,okay,90,really long movie
+1658,2005,Ah sou,"Crime, Drama",4.6,okay,90,no data
 1659,2006,The Break-Up,"Comedy, Drama, Romance",5.8,okay,106,really long movie
 1660,2006,The Champagne Gang,"Action, Adventure",3.0,okay,91,really long movie
 1661,2005,Cheaper by the Dozen 2,"Adventure, Comedy, Family",5.5,okay,94,really long movie
@@ -1666,19 +1666,19 @@
 1664,2006,In a Day,"Comedy, Drama, Romance",6.8,good,81,avg length movie
 1665,2005,Jolly Roger: Massacre at Cutter's Cove,Horror,3.2,okay,80,avg length movie
 1666,2006,Lady in the Water,"Drama, Fantasy, Mystery",5.5,okay,110,really long movie
-1667,2006,Love and Other Disasters,"Comedy, Drama, Romance",6.2,good,90,really long movie
+1667,2006,Love and Other Disasters,"Comedy, Drama, Romance",6.2,good,90,no data
 1668,2005,One Last Thing...,"Comedy, Drama",6.6,good,93,really long movie
 1669,2005,Pterodactyl,"Action, Adventure, Horror",3.1,okay,89,avg length movie
 1670,2005,Race You to the Bottom,"Drama, Romance",5.0,okay,73,avg length movie
 1671,2006,The Redsin Tower,Horror,4.8,okay,87,avg length movie
 1672,2006,The Santa Clause 3: The Escape Clause,"Adventure, Comedy, Family",4.7,okay,97,really long movie
-1673,2006,Undoing,"Crime, Drama, Thriller",4.2,okay,90,really long movie
-1674,2006,Who Made the Potatoe Salad?,"Comedy, Romance",4.2,okay,90,really long movie
+1673,2006,Undoing,"Crime, Drama, Thriller",4.2,okay,90,no data
+1674,2006,Who Made the Potatoe Salad?,"Comedy, Romance",4.2,okay,90,no data
 1675,2005,Never Been Thawed,Comedy,6.0,okay,87,avg length movie
 1676,2005,Um Lobisomem na Amazônia,"Comedy, Horror",4.2,okay,76,avg length movie
 1677,2005,La febbre,Comedy,6.4,good,108,really long movie
-1678,2006,Les fragments d'Antonin,"Drama, War",7.1,good,90,really long movie
-1679,2006,Studs,"Comedy, Sport",5.8,okay,90,really long movie
+1678,2006,Les fragments d'Antonin,"Drama, War",7.1,good,90,no data
+1679,2006,Studs,"Comedy, Sport",5.8,okay,90,no data
 1680,2005,Venner for livet,"Family, Drama",5.8,okay,89,avg length movie
 1681,2005,AV,"Comedy, Drama, Romance",6.8,good,103,really long movie
 1682,2005,Athu Oru Kanaa Kaalam,Romance,4.6,okay,134,really long movie
@@ -1708,7 +1708,7 @@
 1706,2005,Home Invasion,"Action, Crime, Thriller",3.2,okay,81,avg length movie
 1707,2006,Hoot,"Adventure, Comedy, Family",5.5,okay,91,really long movie
 1708,2005,Night Fangs,"Horror, Thriller",3.6,okay,98,really long movie
-1709,2005,Night People,Drama,5.4,okay,90,really long movie
+1709,2005,Night People,Drama,5.4,okay,90,no data
 1710,2006,Unrest,"Horror, Thriller",5.0,okay,88,avg length movie
 1711,2005,Scar,Horror,3.3,okay,92,really long movie
 1712,2005,7 1/2 Phere: More Than a Wedding,"Comedy, Drama",5.4,okay,136,really long movie
@@ -1749,7 +1749,7 @@
 1747,2005,Night of the Dog,"Adventure, Comedy, Romance",6.9,good,86,avg length movie
 1748,2005,Ru guo · Ai,"Drama, Musical, Romance",6.8,good,108,really long movie
 1749,2005,Polly Blue Eyes,"Comedy, Crime, Romance",5.9,okay,101,really long movie
-1750,2006,Pulse,"Horror, Sci-Fi",4.8,okay,90,really long movie
+1750,2006,Pulse,"Horror, Sci-Fi",4.8,okay,90,no data
 1751,2006,The Pursuit of Happyness,"Biography, Drama",8.0,good,117,really long movie
 1752,2006,Requiem,"Drama, Horror",6.9,good,93,really long movie
 1753,2006,Roman,"Drama, Thriller",5.5,okay,92,really long movie
@@ -1771,13 +1771,13 @@
 1769,2006,Garfield: A Tale of Two Kitties,"Animation, Comedy, Family",5.0,okay,82,avg length movie
 1770,2006,The House of Usher,"Drama, Thriller",3.9,okay,81,avg length movie
 1771,2005,In za pûru,Comedy,6.8,good,101,really long movie
-1772,2005,Kame wa igai to hayaku oyogu,Comedy,6.6,good,90,really long movie
+1772,2005,Kame wa igai to hayaku oyogu,Comedy,6.6,good,90,no data
 1773,2005,Kanaa Kanden,"Romance, Thriller",6.7,good,146,really long movie
 1774,2006,The Kovak Box,"Mystery, Sci-Fi, Thriller",5.8,okay,102,really long movie
 1775,2006,The Last King of Scotland,"Biography, Drama, History",7.7,good,123,really long movie
 1776,2006,Madea's Family Reunion,"Comedy, Drama, Romance",5.2,okay,107,really long movie
 1777,2005,Nuvvostanante Nenoddantana,Romance,7.7,good,165,really long movie
-1778,2006,Outside Sales,Comedy,5.2,okay,90,really long movie
+1778,2006,Outside Sales,Comedy,5.2,okay,90,no data
 1779,2005,Semishigure,"Drama, Romance",7.1,good,131,really long movie
 1780,2005,Sivakasi,"Action, Drama",5.2,okay,175,really long movie
 1781,2006,Vettaiyaadu Vilaiyaadu,"Action, Crime, Thriller",7.9,good,174,really long movie
@@ -1794,7 +1794,7 @@
 1792,2006,John Tucker Must Die,"Comedy, Romance",5.7,okay,89,avg length movie
 1793,2005,Nightmare,"Horror, Thriller",5.1,okay,111,really long movie
 1794,2006,The Elder Son,"Comedy, Drama",5.9,okay,87,avg length movie
-1795,2006,Deaden,Action,4.3,okay,90,really long movie
+1795,2006,Deaden,Action,4.3,okay,90,no data
 1796,2005,Raving Maniacs,Horror,3.8,okay,80,avg length movie
 1797,2005,The Sobbing Stone,Mystery,1.4,bad,76,avg length movie
 1798,2006,Surf School,"Comedy, Sport",2.1,bad,87,avg length movie
@@ -1811,7 +1811,7 @@
 1809,2005,L'enfant,"Crime, Drama, Romance",7.5,good,95,really long movie
 1810,2006,Fight Club: Members Only,"Action, Crime",3.2,okay,140,really long movie
 1811,2006,Un mundo maravilloso,"Comedy, Drama, Thriller",6.9,good,118,really long movie
-1812,2005,Hwal,"Drama, Romance",7.2,good,90,really long movie
+1812,2005,Hwal,"Drama, Romance",7.2,good,90,no data
 1813,2006,Jaan-E-Mann: Let's Fall in Love... Again,"Drama, Musical, Romance",6.0,okay,165,really long movie
 1814,2005,Kyaa Kool Hai Hum,"Comedy, Mystery",6.1,good,172,really long movie
 1815,2005,Malas temporadas,Drama,6.3,good,115,really long movie
@@ -1827,7 +1827,7 @@
 1825,2005,Kamyu nante shiranai,Drama,6.9,good,115,really long movie
 1826,2005,Cidade Baixa,Drama,6.6,good,98,really long movie
 1827,2005,Dalkomhan insaeng,"Action, Drama",7.6,good,120,really long movie
-1828,2005,Fin de curso,Comedy,4.1,okay,90,really long movie
+1828,2005,Fin de curso,Comedy,4.1,okay,90,no data
 1829,2005,Harrys döttrar,Drama,5.9,okay,106,really long movie
 1830,2006,Shin kyûseishu densetsu Hokuto no Ken: Raô den - Ju,"Animation, Action",6.8,good,95,really long movie
 1831,2005,Jambok-geunmu,"Action, Comedy, Crime",6.3,good,111,really long movie
@@ -1849,14 +1849,14 @@
 1847,2006,Church Ball,"Comedy, Sport",3.9,okay,91,really long movie
 1848,2006,Come Early Morning,"Drama, Romance",6.1,good,97,really long movie
 1849,2006,Down the P.C.H.,Drama,4.4,okay,95,really long movie
-1850,2006,Evil Behind You,"Action, Comedy, Sci-Fi",1.8,bad,90,really long movie
+1850,2006,Evil Behind You,"Action, Comedy, Sci-Fi",1.8,bad,90,no data
 1851,2005,The Hole Story,Comedy,5.6,okay,82,avg length movie
 1852,2005,Jai Chiranjeeva,"Action, Comedy, Drama",5.8,okay,174,really long movie
 1853,2006,Pan's Labyrinth,"Drama, Fantasy, War",8.2,good,118,really long movie
 1854,2005,Play,"Drama, Romance",6.4,good,100,really long movie
 1855,2005,The Reception,"Comedy, Drama, Romance",5.8,okay,80,avg length movie
 1856,2005,Il ritorno del Monnezza,Comedy,3.7,okay,93,really long movie
-1857,2005,Sheng si jie,Drama,6.5,good,90,really long movie
+1857,2005,Sheng si jie,Drama,6.5,good,90,no data
 1858,2005,Silent Partner,"Action, Crime",4.6,okay,96,really long movie
 1859,2006,The Standard,Drama,4.7,okay,88,avg length movie
 1860,2006,Stormbreaker,"Action, Adventure, Family",5.1,okay,93,really long movie
@@ -1868,7 +1868,7 @@
 1866,2006,98 Octanas,"Adventure, Drama, Romance",4.2,okay,94,really long movie
 1867,2005,Bôkoku no îjisu,"Action, Drama, Thriller",5.5,okay,126,really long movie
 1868,2006,Efter brylluppet,Drama,7.7,good,120,really long movie
-1869,2005,The Blue Umbrella,"Comedy, Drama, Family",7.6,good,90,really long movie
+1869,2005,The Blue Umbrella,"Comedy, Drama, Family",7.6,good,90,no data
 1870,2005,Ek Ajnabee,"Action, Crime, Drama",5.2,okay,142,really long movie
 1871,2006,Hell,Drama,5.0,okay,100,really long movie
 1872,2006,The Holiday,"Comedy, Romance",6.9,good,136,really long movie
@@ -1877,7 +1877,7 @@
 1875,2005,Nishijapon,Drama,7.1,good,140,really long movie
 1876,2006,Provoked: A True Story,"Biography, Crime, Drama",6.5,good,113,really long movie
 1877,2005,Quanto Vale Ou É Por Quilo?,Drama,7.2,good,110,really long movie
-1878,2006,El ratón Pérez,"Animation, Adventure, Come",4.9,okay,90,really long movie
+1878,2006,El ratón Pérez,"Animation, Adventure, Come",4.9,okay,90,no data
 1879,2005,Thambi,"Drama, Thriller",6.0,okay,138,really long movie
 1880,2005,Ullam Ketkumae,Romance,7.1,good,156,really long movie
 1881,2006,Laitakaupungin valot,"Crime, Drama",6.9,good,78,avg length movie
@@ -1904,7 +1904,7 @@
 1902,2005,Zui hao de shi guang,"Drama, Romance",7.0,good,132,really long movie
 1903,2005,Kilomètre zéro,"Comedy, Drama, War",6.1,good,91,really long movie
 1904,2005,Ashura-jô no hitomi,"Action, Fantasy",5.9,okay,119,really long movie
-1905,2006,Kuldrannake,"Drama, Thriller",4.6,okay,90,really long movie
+1905,2006,Kuldrannake,"Drama, Thriller",4.6,okay,90,no data
 1906,2006,Lady Chatterley,"Drama, Romance",6.7,good,168,really long movie
 1907,2005,Lifting de corazón,"Comedy, Drama, Romance",5.8,okay,93,really long movie
 1908,2005,Pervye na Lune,"Mystery, Sci-Fi",6.8,good,75,avg length movie
@@ -1912,7 +1912,7 @@
 1910,2006,Transe,Drama,6.3,good,126,really long movie
 1911,2005,Paréntesis,Drama,6.7,good,97,really long movie
 1912,2006,Pretendiendo,"Comedy, Romance",6.0,okay,118,really long movie
-1913,2006,Toi et moi,"Comedy, Drama, Romance",5.6,okay,90,really long movie
+1913,2006,Toi et moi,"Comedy, Drama, Romance",5.6,okay,90,no data
 1914,2005,Athbhutha Dweepu,"Adventure, Comedy, Fantasy",5.3,okay,127,really long movie
 1915,2005,L'audition,Drama,7.0,good,111,really long movie
 1916,2006,In a Dark Place,"Horror, Thriller",4.3,okay,95,really long movie
@@ -1926,7 +1926,7 @@
 1924,2005,Maurice Richard,"Biography, Drama, Sport",7.6,good,124,really long movie
 1925,2005,Popsa,"Drama, Musical",6.2,good,111,really long movie
 1926,2005,Rappakal,"Comedy, Drama",7.1,good,137,really long movie
-1927,2006,Safety in Numbers,Horror,3.2,okay,90,really long movie
+1927,2006,Safety in Numbers,Horror,3.2,okay,90,no data
 1928,2006,Saippuaprinssi,"Comedy, Romance",5.3,okay,97,really long movie
 1929,2005,Udayon,"Action, Drama, Family",4.3,okay,180,really long movie
 1930,2006,The Work and the Glory III: A House Divided,"Drama, Western",6.7,good,89,avg length movie
@@ -1937,7 +1937,7 @@
 1935,2006,Cashback,"Comedy, Drama, Romance",7.2,good,102,really long movie
 1936,2005,Crash Test Dummies,"Comedy, Drama",6.4,good,93,really long movie
 1937,2006,Cutting Room,"Comedy, Horror, Mystery",5.3,okay,83,avg length movie
-1938,2006,Driftwood,"Horror, Mystery, Thriller",4.7,okay,90,really long movie
+1938,2006,Driftwood,"Horror, Mystery, Thriller",4.7,okay,90,no data
 1939,2005,The Eyes of Van Gogh,"Biography, Drama",6.2,good,111,really long movie
 1940,2006,The Fall,"Adventure, Drama, Fantasy",7.9,good,117,really long movie
 1941,2006,Fast Food Nation,"Comedy, Drama, Romance",6.3,good,116,really long movie
@@ -1945,7 +1945,7 @@
 1943,2005,Frankenstein Reborn,"Horror, Sci-Fi, Thriller",3.2,okay,84,avg length movie
 1944,2006,Griffin & Phoenix,"Comedy, Drama, Romance",7.0,good,102,really long movie
 1945,2006,Inland Empire,"Drama, Mystery, Thriller",6.9,good,180,really long movie
-1946,2006,Judges,"Action, Adventure, Fantasy",3.2,okay,90,really long movie
+1946,2006,Judges,"Action, Adventure, Fantasy",3.2,okay,90,no data
 1947,2006,Killing Down,"Action, Thriller",3.9,okay,108,really long movie
 1948,2005,Kûchû teien,Drama,7.2,good,114,really long movie
 1949,2006,Life and Lyrics,"Drama, Music, Romance",5.4,okay,99,really long movie
@@ -2016,9 +2016,9 @@
 2014,2006,Mentor,Drama,6.2,good,92,really long movie
 2015,2005,Mr. Dungbeetle,Comedy,5.1,okay,89,avg length movie
 2016,2005,Penny Dreadful,"Horror, Thriller",5.9,okay,91,really long movie
-2017,2005,The Last Hangman,"Biography, Crime, Drama",7.4,good,90,really long movie
+2017,2005,The Last Hangman,"Biography, Crime, Drama",7.4,good,90,no data
 2018,2006,Poultrygeist: Night of the Chicken Dead,"Comedy, Horror, Musical",6.1,good,103,really long movie
-2019,2006,Quarter Life Crisis,"Comedy, Drama, Romance",2.9,bad,90,really long movie
+2019,2006,Quarter Life Crisis,"Comedy, Drama, Romance",2.9,bad,90,no data
 2020,2006,Rescue Dawn,"Action, Adventure, Biograp",7.3,good,120,really long movie
 2021,2006,School for Scoundrels,Comedy,5.9,okay,100,really long movie
 2022,2005,Song of Songs,Drama,4.6,okay,81,avg length movie
@@ -2034,9 +2034,9 @@
 2032,2006,Le lièvre de Vatanen,"Comedy, Drama",5.2,okay,95,really long movie
 2033,2005,Na Verkhney Maslovke,Drama,7.0,good,115,really long movie
 2034,2005,Namgeuk-ilgi,"Horror, Mystery, Thriller",6.0,okay,115,really long movie
-2035,2005,Stories of Lost Souls,"Comedy, Drama, Thriller",5.5,okay,90,really long movie
+2035,2005,Stories of Lost Souls,"Comedy, Drama, Thriller",5.5,okay,90,no data
 2036,2005,Yeladim Tovim,"Crime, Drama, Romance",5.6,okay,75,avg length movie
-2037,2006,Zayats nad bezdnoy,Comedy,6.2,good,90,really long movie
+2037,2006,Zayats nad bezdnoy,Comedy,6.2,good,90,no data
 2038,2005,Southbounders,Drama,6.4,good,86,avg length movie
 2039,2006,"You, Me and Dupree","Comedy, Romance",5.6,okay,110,really long movie
 2040,2006,La belle bête,Drama,5.7,okay,110,really long movie
@@ -2051,15 +2051,15 @@
 2049,2005,Be with Me,"Drama, Romance",7.0,good,93,really long movie
 2050,2006,Candy Stripers,"Horror, Sci-Fi",3.2,okay,89,avg length movie
 2051,2005,Confessions of a Pit Fighter,"Action, Drama",4.2,okay,95,really long movie
-2052,2006,Two Tickets to Paradise,Comedy,5.5,okay,90,really long movie
+2052,2006,Two Tickets to Paradise,Comedy,5.5,okay,90,no data
 2053,2006,The Far Side of Jericho,Western,4.5,okay,99,really long movie
 2054,2006,The Fast and the Furious: Tokyo Drift,"Action, Crime, Thriller",6.0,okay,104,really long movie
 2055,2005,Le filmeur,Drama,6.9,good,97,really long movie
-2056,2006,Grbavica,Drama,7.2,good,90,really long movie
+2056,2006,Grbavica,Drama,7.2,good,90,no data
 2057,2006,Hana yori mo naho,"Comedy, Drama",6.7,good,127,really long movie
 2058,2005,Harder They Fall,"Action, Drama, Sport",3.2,okay,103,really long movie
 2059,2006,The History Boys,"Comedy, Drama, Romance",6.8,good,109,really long movie
-2060,2006,Homie Spumoni,Comedy,4.5,okay,90,really long movie
+2060,2006,Homie Spumoni,Comedy,4.5,okay,90,no data
 2061,2005,Le cactus,Comedy,5.4,okay,94,really long movie
 2062,2006,I'm Reed Fish,"Comedy, Drama, Romance",5.7,okay,93,really long movie
 2063,2006,Sillunu Oru Kadhal,"Drama, Romance",6.9,good,175,really long movie
@@ -2074,7 +2074,7 @@
 2072,2005,Bednye rodstvenniki,"Comedy, Drama",6.2,good,103,really long movie
 2073,2005,Daenseo-ui sunjeong,"Comedy, Drama, Music",6.9,good,110,really long movie
 2074,2005,Gan-keun gajok,"Comedy, Drama",5.9,okay,102,really long movie
-2075,2005,Kosmos kak predchuvstvie,Drama,6.8,good,90,really long movie
+2075,2005,Kosmos kak predchuvstvie,Drama,6.8,good,90,no data
 2076,2005,Taepungtaeyang,Drama,5.8,okay,107,really long movie
 2077,2005,Yeonae-sulsa,"Comedy, Romance",6.2,good,106,really long movie
 2078,2005,Yeonae-ui mokjeok,"Comedy, Romance",6.4,good,121,really long movie
@@ -2099,7 +2099,7 @@
 2097,2006,Disappearances,"Action, Adventure, Drama",4.9,okay,118,really long movie
 2098,2005,Hallowed,Horror,2.9,bad,80,avg length movie
 2099,2005,Hoshi ni natta shônen,"Drama, Family",6.7,good,113,really long movie
-2100,2006,Jumping Off Bridges,Drama,7.0,good,90,really long movie
+2100,2006,Jumping Off Bridges,Drama,7.0,good,90,no data
 2101,2006,Last Rites of the Dead,"Comedy, Horror",4.6,okay,118,really long movie
 2102,2006,Notes on a Scandal,"Crime, Drama, Romance",7.4,good,92,really long movie
 2103,2005,Omiros,"Crime, Drama, Thriller",6.1,good,105,really long movie
@@ -2113,24 +2113,24 @@
 2111,2006,1:1,Drama,5.9,okay,92,really long movie
 2112,2006,Dobrynya Nikitich i Zmey Gorynych,"Animation, Adventure, Come",7.1,good,65,avg length movie
 2113,2005,Gimî hebun,Thriller,5.7,okay,122,really long movie
-2114,2005,Grenzverkehr,"Comedy, Drama",6.4,good,90,really long movie
+2114,2005,Grenzverkehr,"Comedy, Drama",6.4,good,90,no data
 2115,2006,Khottabych,"Adventure, Comedy, Fantasy",6.2,good,92,really long movie
-2116,2006,Lotto,Comedy,5.2,okay,90,really long movie
+2116,2006,Lotto,Comedy,5.2,okay,90,no data
 2117,2005,Pyl,"Comedy, Drama, Sci-Fi",7.2,good,107,really long movie
 2118,2006,TKKG und die rätselhafte Mind-Machine,"Action, Adventure, Crime",4.3,okay,117,really long movie
 2119,2006,Andersen. Zhizn bez lyubvi,"Adventure, Biography, Dram",5.7,okay,137,really long movie
 2120,2005,Weltverbesserungsmaßnahmen,Comedy,5.8,okay,91,really long movie
 2121,2006,Die Wilden Hühner,"Adventure, Family",6.0,okay,105,really long movie
-2122,2006,Jeune homme,Comedy,6.5,good,90,really long movie
+2122,2006,Jeune homme,Comedy,6.5,good,90,no data
 2123,2005,Vremya sobirat kamni,War,6.6,good,110,really long movie
 2124,2006,Date Movie,"Comedy, Romance",2.8,bad,83,avg length movie
 2125,2005,Fekete kefe,Comedy,6.0,okay,83,avg length movie
 2126,2005,Hinokio,"Drama, Sci-Fi",6.5,good,111,really long movie
 2127,2005,L'orizzonte degli eventi,Drama,5.9,okay,115,really long movie
 2128,2005,Sex hopp & kärlek,Drama,5.0,okay,93,really long movie
-2129,2006,Ten Canoes,"Adventure, Comedy, Drama",7.0,good,90,really long movie
-2130,2006,Unnatural & Accidental,"Crime, Drama, Mystery",4.7,okay,90,really long movie
-2131,2005,Gekijôban XXXHolic Manatsu no yoru no yume,"Animation, Comedy, Drama",7.1,good,60,avg length movie
+2129,2006,Ten Canoes,"Adventure, Comedy, Drama",7.0,good,90,no data
+2130,2006,Unnatural & Accidental,"Crime, Drama, Mystery",4.7,okay,90,no data
+2131,2005,Gekijôban XXXHolic Manatsu no yoru no yume,"Animation, Comedy, Drama",7.1,good,60,no data
 2132,2005,Zakochany aniol,"Comedy, Romance",5.7,okay,95,really long movie
 2133,2006,Khosla Ka Ghosla!,"Comedy, Crime, Drama",8.3,good,135,really long movie
 2134,2006,The Plague,Drama,4.3,okay,104,really long movie
@@ -2139,7 +2139,7 @@
 2137,2006,Nafaka,"Action, Comedy, War",6.8,good,115,really long movie
 2138,2006,Alien Autopsy,"Biography, Comedy, Sci-Fi",5.8,okay,95,really long movie
 2139,2006,The Architect,"Crime, Drama, Romance",5.5,okay,82,avg length movie
-2140,2005,Almost Normal,"Comedy, Drama, Romance",5.4,okay,90,really long movie
+2140,2005,Almost Normal,"Comedy, Drama, Romance",5.4,okay,90,no data
 2141,2005,Arindhum Ariyamalum,"Comedy, Crime, Drama",7.2,good,132,really long movie
 2142,2006,The Darkroom,"Horror, Mystery, Thriller",5.6,okay,83,avg length movie
 2143,2006,"Puff, Puff, Pass",Comedy,5.6,okay,95,really long movie
@@ -2148,7 +2148,7 @@
 2146,2006,ATL,"Comedy, Crime, Drama",6.1,good,105,really long movie
 2147,2006,The Moment After II: The Awakening,"Drama, Sci-Fi, Thriller",4.9,okay,93,really long movie
 2148,2006,The Omen,"Horror, Thriller",5.5,okay,110,really long movie
-2149,2005,The Perfect Stranger,Drama,6.7,good,90,really long movie
+2149,2005,The Perfect Stranger,Drama,6.7,good,90,no data
 2150,2006,The Shadow Walkers,Horror,2.3,bad,91,really long movie
 2151,2006,The System Within,Drama,3.3,okay,108,really long movie
 2152,2006,The Valley of Tears,"Drama, Fantasy, Thriller",2.7,bad,87,avg length movie
@@ -2159,10 +2159,10 @@
 2157,2005,Khoht phetchakhaat,"Action, Adventure, Drama",4.4,okay,87,avg length movie
 2158,2005,Shiryôha,Horror,4.4,okay,77,avg length movie
 2159,2005,Bathhouse,Drama,5.1,okay,107,really long movie
-2160,2005,Buitenspel,"Drama, Fantasy, Mystery",5.8,okay,90,really long movie
+2160,2005,Buitenspel,"Drama, Fantasy, Mystery",5.8,okay,90,no data
 2161,2006,Chiisaki yûsha-tachi: Gamera,"Action, Adventure, Family",6.6,good,96,really long movie
 2162,2006,Los mánagers,Comedy,2.9,bad,97,really long movie
-2163,2005,Bowser Makes a Movie,Comedy,3.8,okay,90,really long movie
+2163,2005,Bowser Makes a Movie,Comedy,3.8,okay,90,no data
 2164,2006,Brother's Shadow,Drama,6.0,okay,91,really long movie
 2165,2006,The Conrad Boys,"Drama, Romance",6.0,okay,94,really long movie
 2166,2005,Crippled Creek,Horror,2.6,bad,89,avg length movie
@@ -2190,7 +2190,7 @@
 2188,2005,Kidô senshi Z Gandamu II: Koibito tachi,"Animation, Action, Drama",6.4,good,98,really long movie
 2189,2006,Nacido y criado,Drama,6.3,good,100,really long movie
 2190,2005,Noriko no shokutaku,"Drama, Horror",7.1,good,159,really long movie
-2191,2006,Perl oder Pica,Drama,6.3,good,90,really long movie
+2191,2006,Perl oder Pica,Drama,6.3,good,90,no data
 2192,2006,La silla,Drama,4.5,okay,95,really long movie
 2193,2005,Sima-ye zani dar doordast,Drama,6.0,okay,103,really long movie
 2194,2005,Mayonaka no Yaji-san Kita-san,"Comedy, Fantasy",6.4,good,124,really long movie
@@ -2207,7 +2207,7 @@
 2205,2006,World Trade Center,"Drama, History, Thriller",5.9,okay,129,really long movie
 2206,2006,Automaton Transfusion,Horror,3.8,okay,75,avg length movie
 2207,2006,Bloody Mary,"Horror, Thriller",3.4,okay,93,really long movie
-2208,2005,Dreaming Lhasa,"Adventure, Drama, Mystery",6.5,good,90,really long movie
+2208,2005,Dreaming Lhasa,"Adventure, Drama, Mystery",6.5,good,90,no data
 2209,2006,The Last Time,"Comedy, Drama, Thriller",6.1,good,96,really long movie
 2210,2006,Little Big Top,Comedy,6.3,good,83,avg length movie
 2211,2005,Pavee Lackeen: The Traveller Girl,Drama,6.2,good,88,avg length movie
@@ -2224,14 +2224,14 @@
 2222,2006,Open Water 2: Adrift,"Adventure, Drama, Horror",5.1,okay,95,really long movie
 2223,2006,Raftáci,Comedy,5.6,okay,104,really long movie
 2224,2006,Le rose del deserto,"Comedy, War",6.6,good,102,really long movie
-2225,2005,Ya ana ya khalty,Comedy,5.1,okay,90,really long movie
+2225,2005,Ya ana ya khalty,Comedy,5.1,okay,90,no data
 2226,2005,Jom kha mung wej,"Crime, Fantasy, Horror",5.5,okay,118,really long movie
 2227,2006,Rokonok,Drama,5.5,okay,110,really long movie
 2228,2005,Angli: The Movie,"Action, Crime, Thriller",3.6,okay,114,really long movie
 2229,2005,Chung buk ji,"Fantasy, Musical, Romance",4.9,okay,97,really long movie
 2230,2006,La distancia,Thriller,5.9,okay,111,really long movie
 2231,2006,Dosar,Drama,7.3,good,127,really long movie
-2232,2006,La edad de la peseta,Drama,6.6,good,90,really long movie
+2232,2006,La edad de la peseta,Drama,6.6,good,90,no data
 2233,2006,Fang xiang zhi lu,Drama,7.0,good,114,really long movie
 2234,2005,Saigo no bansan,"Drama, Horror, Mystery",5.8,okay,92,really long movie
 2235,2005,Onaji tsuki wo miteiru,Drama,5.5,okay,106,really long movie
@@ -2245,7 +2245,7 @@
 2243,2005,Africa United,"Comedy, Sport",6.1,good,80,avg length movie
 2244,2005,Banyo,Crime,3.9,okay,87,avg length movie
 2245,2006,Bienvenido a casa,"Comedy, Drama, Romance",5.9,okay,118,really long movie
-2246,2005,Brudermord,Drama,6.7,good,90,really long movie
+2246,2005,Brudermord,Drama,6.7,good,90,no data
 2247,2006,Bug,"Drama, Thriller",6.1,good,102,really long movie
 2248,2005,Sinema bir mucizedir,Drama,5.4,okay,103,really long movie
 2249,2005,Cheon gun,"Action, Comedy, Sci-Fi",6.0,okay,106,really long movie
@@ -2254,7 +2254,7 @@
 2252,2006,For Your Consideration,Comedy,6.3,good,86,avg length movie
 2253,2005,Keller - Teenage Wasteland,Drama,5.4,okay,92,really long movie
 2254,2006,Keloglan Karaprens'e Karsi,Comedy,1.6,bad,105,really long movie
-2255,2005,Krisana,Drama,6.8,good,90,really long movie
+2255,2005,Krisana,Drama,6.8,good,90,no data
 2256,2006,Mojave Phone Booth,Drama,5.7,okay,88,avg length movie
 2257,2005,Neal 'N' Nikki,"Comedy, Musical, Romance",3.2,okay,122,really long movie
 2258,2005,Organize Isler,"Comedy, Drama",7.4,good,106,really long movie
@@ -2290,19 +2290,19 @@
 2288,2005,Tyttö sinä olet tähti,"Drama, Music, Romance",6.5,good,102,really long movie
 2289,2006,Apocalypto,"Action, Adventure, Drama",7.8,good,139,really long movie
 2290,2005,Gisela,Drama,6.1,good,87,avg length movie
-2291,2005,Jazireh ahani,Drama,7.2,good,90,really long movie
+2291,2005,Jazireh ahani,Drama,7.2,good,90,no data
 2292,2006,Kill Your Darlings,"Comedy, Drama",4.6,okay,94,really long movie
 2293,2006,Local Color,Drama,6.9,good,107,really long movie
 2294,2006,The Half Life of Timofey Berezin,Drama,6.9,good,97,really long movie
 2295,2006,Penelope,"Comedy, Fantasy, Romance",6.7,good,104,really long movie
-2296,2006,Saving Shiloh,"Drama, Family",6.3,good,90,really long movie
+2296,2006,Saving Shiloh,"Drama, Family",6.3,good,90,no data
 2297,2006,The Strange Case of Dr. Jekyll and Mr. Hyde,"Horror, Sci-Fi",3.7,okay,89,avg length movie
 2298,2006,Valley of the Heart's Delight,Drama,5.7,okay,100,really long movie
 2299,2005,11:59,"Mystery, Sci-Fi, Thriller",5.7,okay,102,really long movie
 2300,2006,Alone with Her,"Crime, Drama, Thriller",6.0,okay,78,avg length movie
 2301,2006,The Flying Scotsman,"Drama, Sport",7.1,good,96,really long movie
 2302,2005,Infection,Horror,4.2,okay,81,avg length movie
-2303,2005,To oneiro tou skylou,Fantasy,6.2,good,90,really long movie
+2303,2005,To oneiro tou skylou,Fantasy,6.2,good,90,no data
 2304,2005,Piano 17,"Action, Comedy, Crime",6.5,good,105,really long movie
 2305,2006,Eccezzziunale veramente - Capitolo secondo... me,Comedy,4.3,okay,108,really long movie
 2306,2005,Espelho Mágico,"Drama, Music",6.8,good,137,really long movie
@@ -2312,7 +2312,7 @@
 2310,2005,The Torturer,Horror,3.9,okay,100,really long movie
 2311,2006,2:37,Drama,6.8,good,95,really long movie
 2312,2006,BoyTown,"Comedy, Music",5.3,okay,88,avg length movie
-2313,2005,Elsk meg i morgen,"Comedy, Drama, Romance",6.2,good,90,really long movie
+2313,2005,Elsk meg i morgen,"Comedy, Drama, Romance",6.2,good,90,no data
 2314,2005,O Fatalista,Drama,5.4,okay,99,really long movie
 2315,2005,Johanna,"Drama, Musical",5.6,okay,86,avg length movie
 2316,2005,Kukumi,Drama,6.7,good,107,really long movie
@@ -2330,7 +2330,7 @@
 2328,2006,Gretchen,Comedy,5.6,okay,98,really long movie
 2329,2006,I.R.A.: King of Nothing,"Action, Drama",4.3,okay,85,avg length movie
 2330,2005,Shapeshifter,Horror,2.6,bad,81,avg length movie
-2331,2006,Surveillance,"Crime, Thriller",5.1,okay,90,really long movie
+2331,2006,Surveillance,"Crime, Thriller",5.1,okay,90,no data
 2332,2005,Ark,"Animation, Action, Drama",6.1,good,84,avg length movie
 2333,2006,Man cheng jin dai huang jin jia,"Action, Drama, Romance",7.0,good,111,really long movie
 2334,2006,Bondage,"Biography, Drama",8.2,good,100,really long movie
@@ -2341,23 +2341,23 @@
 2339,2006,Mulberry St,"Horror, Sci-Fi, Thriller",5.6,okay,84,avg length movie
 2340,2005,...Yahaan,"Drama, Romance, War",7.4,good,142,really long movie
 2341,2005,Anukokunda Oka Roju,"Mystery, Thriller",8.0,good,145,really long movie
-2342,2006,Babas bilar,"Action, Comedy",4.7,okay,90,really long movie
+2342,2006,Babas bilar,"Action, Comedy",4.7,okay,90,no data
 2343,2005,Saints-Martyrs-des-Damnés,"Drama, Horror, Mystery",6.2,good,115,really long movie
 2344,2006,Sønner,Drama,7.1,good,103,really long movie
 2345,2006,The TV Set,"Comedy, Drama",6.5,good,88,avg length movie
 2346,2006,Unna ja Nuuk,"Adventure, Family, Fantasy",5.0,okay,78,avg length movie
 2347,2005,Veninder,Comedy,3.2,okay,85,avg length movie
-2348,2006,Awakening,Horror,2.1,bad,90,really long movie
+2348,2006,Awakening,Horror,2.1,bad,90,no data
 2349,2005,Angel-A,"Comedy, Drama, Fantasy",7.1,good,91,really long movie
 2350,2006,Aurore,"Comedy, Musical",5.3,okay,95,really long movie
 2351,2006,Camping,Comedy,4.9,okay,95,really long movie
-2352,2006,Essaye-moi,"Comedy, Romance",6.0,okay,90,really long movie
+2352,2006,Essaye-moi,"Comedy, Romance",6.0,okay,90,no data
 2353,2006,Le pressentiment,Drama,6.4,good,97,really long movie
 2354,2006,L'école pour tous,Comedy,4.9,okay,97,really long movie
 2355,2006,Derecho de familia,"Comedy, Drama",6.9,good,102,really long movie
 2356,2005,En la cama,Drama,6.2,good,85,avg length movie
 2357,2005,I giorni dell'abbandono,Drama,5.9,okay,96,really long movie
-2358,2006,Sofacama,"Comedy, Drama",6.0,okay,90,really long movie
+2358,2006,Sofacama,"Comedy, Drama",6.0,okay,90,no data
 2359,2005,The Maid,"Drama, Horror, Mystery",5.9,okay,93,really long movie
 2360,2006,A Lobster Tale,"Drama, Family, Fantasy",6.2,good,95,really long movie
 2361,2005,La seconda notte di nozze,"Comedy, Drama",6.7,good,103,really long movie
@@ -2401,7 +2401,7 @@
 2399,2006,The Abandoned,"Horror, Mystery, Thriller",5.6,okay,99,really long movie
 2400,2006,The Covenant,"Action, Adventure, Fantasy",5.3,okay,97,really long movie
 2401,2005,Inu no eiga,Family,6.9,good,96,really long movie
-2402,2006,Nailed,"Crime, Horror, Thriller",4.1,okay,90,really long movie
+2402,2006,Nailed,"Crime, Horror, Thriller",4.1,okay,90,no data
 2403,2006,Beyza'nin Kadinlari,"Crime, Drama, Mystery",6.2,good,137,really long movie
 2404,2006,La gran final,Comedy,6.9,good,88,avg length movie
 2405,2006,Madeinusa,Drama,6.8,good,100,really long movie
@@ -2415,12 +2415,12 @@
 2413,2006,The Entrance,"Horror, Thriller",4.3,okay,81,avg length movie
 2414,2005,Meet Me in Miami,"Comedy, Family, Romance",6.9,good,94,really long movie
 2415,2006,La niña en la piedra,Drama,6.0,okay,104,really long movie
-2416,2006,Ha-Buah,"Comedy, Drama, Romance",7.3,good,90,really long movie
+2416,2006,Ha-Buah,"Comedy, Drama, Romance",7.3,good,90,no data
 2417,2006,Darna Zaroori Hai,Horror,5.4,okay,108,really long movie
 2418,2006,Ober,Comedy,7.0,good,97,really long movie
 2419,2006,Aksar,"Drama, Romance, Thriller",4.8,okay,135,really long movie
 2420,2005,Babam ve Oglum,"Drama, Family",8.3,good,108,really long movie
-2421,2005,Czas surferów,"Comedy, Crime",6.0,okay,90,really long movie
+2421,2005,Czas surferów,"Comedy, Crime",6.0,okay,90,no data
 2422,2005,Maja,"Action, Comedy, Romance",5.2,okay,139,really long movie
 2423,2006,Malamaal Weekly,"Comedy, Drama, Romance",6.9,good,137,really long movie
 2424,2005,Ramji Londonwaley,"Comedy, Drama, Family",6.7,good,154,really long movie
@@ -2450,14 +2450,14 @@
 2448,2006,Okhota na Piranyu,"Action, Crime, Thriller",6.0,okay,167,really long movie
 2449,2006,Broken Bridges,"Drama, Music",6.1,good,105,really long movie
 2450,2005,À travers la forêt,"Drama, Fantasy",6.6,good,65,avg length movie
-2451,2005,The Cabin Movie,"Comedy, Drama",4.7,okay,90,really long movie
+2451,2005,The Cabin Movie,"Comedy, Drama",4.7,okay,90,no data
 2452,2005,Fu-Rai,"Horror, Thriller",5.1,okay,75,avg length movie
 2453,2005,El-sefara fi El-Omara,"Comedy, Drama",6.3,good,107,really long movie
-2454,2006,Solo,"Crime, Drama",5.5,okay,90,really long movie
+2454,2006,Solo,"Crime, Drama",5.5,okay,90,no data
 2455,2006,Sztornó,Drama,6.4,good,93,really long movie
 2456,2005,Café Transit,"Drama, Romance",7.3,good,107,really long movie
 2457,2005,Dame sobh,Drama,7.0,good,82,avg length movie
-2458,2006,Footy Legends,"Comedy, Drama, Sport",5.8,okay,90,really long movie
+2458,2006,Footy Legends,"Comedy, Drama, Sport",5.8,okay,90,no data
 2459,2005,Hong yan,Drama,6.9,good,93,really long movie
 2460,2006,Sang sattawat,Drama,7.5,good,105,really long movie
 2461,2005,Sehar,"Action, Crime, Drama",7.8,good,125,really long movie
@@ -2465,19 +2465,19 @@
 2463,2005,Sud express,Drama,6.8,good,102,really long movie
 2464,2005,Tung mung kei yun,"Comedy, Drama, Sci-Fi",6.7,good,92,really long movie
 2465,2005,Viva Cuba,"Comedy, Drama",6.9,good,80,avg length movie
-2466,2006,Jean-Philippe,"Comedy, Fantasy, Music",6.0,okay,90,really long movie
+2466,2006,Jean-Philippe,"Comedy, Fantasy, Music",6.0,okay,90,no data
 2467,2005,Kinetta,Drama,4.8,okay,95,really long movie
 2468,2005,Masahista,Drama,6.0,okay,76,avg length movie
 2469,2005,Saat po long,"Action, Crime, Thriller",7.0,good,93,really long movie
 2470,2005,Sa-kwa,Drama,6.4,good,118,really long movie
 2471,2005,Takeshis',"Comedy, Drama, Fantasy",6.4,good,108,really long movie
-2472,2006,Dark Reality,"Horror, Thriller",2.7,bad,90,really long movie
+2472,2006,Dark Reality,"Horror, Thriller",2.7,bad,90,no data
 2473,2006,Satanic,Horror,2.9,bad,88,avg length movie
 2474,2006,Fade to Black,"Mystery, Thriller",5.4,okay,99,really long movie
-2475,2006,The Butcher,"Horror, Thriller",3.6,okay,90,really long movie
+2475,2006,The Butcher,"Horror, Thriller",3.6,okay,90,no data
 2476,2005,Jestem,Drama,7.3,good,93,really long movie
 2477,2005,King of the Lost World,"Action, Adventure, Fantasy",2.4,bad,80,avg length movie
-2478,2006,Mr. Gibb,"Comedy, Mystery",4.9,okay,90,really long movie
+2478,2006,Mr. Gibb,"Comedy, Mystery",4.9,okay,90,no data
 2479,2005,A New Day in Old Sana'a,"Drama, Romance",6.2,good,83,avg length movie
 2480,2006,Nightmare Man,"Comedy, Horror, Thriller",4.0,okay,89,avg length movie
 2481,2006,Rain,Drama,5.7,okay,105,really long movie
@@ -2494,22 +2494,22 @@
 2492,2006,Les aiguilles rouges,Drama,5.7,okay,93,really long movie
 2493,2006,Avida,Comedy,5.9,okay,83,avg length movie
 2494,2006,Nos jours heureux,Comedy,6.8,good,103,really long movie
-2495,2006,Je m'appelle Elisabeth,Drama,7.0,good,90,really long movie
+2495,2006,Je m'appelle Elisabeth,Drama,7.0,good,90,no data
 2496,2005,Maroa,"Music, Romance",6.5,good,102,really long movie
 2497,2005,Itsuka dokusho suruhi,"Drama, Romance",6.9,good,127,really long movie
 2498,2006,Optimisti,Drama,6.4,good,98,really long movie
 2499,2006,Président,"Drama, Thriller",5.7,okay,97,really long movie
-2500,2006,Prête-moi ta main,"Comedy, Romance",6.7,good,90,really long movie
+2500,2006,Prête-moi ta main,"Comedy, Romance",6.7,good,90,no data
 2501,2006,Serko,Drama,6.3,good,96,really long movie
 2502,2006,WWW: What a Wonderful World,"Comedy, Thriller",6.1,good,99,really long movie
 2503,2006,The Foursome,Comedy,4.4,okay,80,avg length movie
 2504,2006,Vitus,"Drama, Music",7.6,good,100,really long movie
 2505,2005,Tse bing,"Action, Crime",5.3,okay,95,really long movie
-2506,2006,Always Will,Family,4.6,okay,90,really long movie
-2507,2005,Bad Reputation,"Drama, Horror, Thriller",4.2,okay,90,really long movie
+2506,2006,Always Will,Family,4.6,okay,90,no data
+2507,2005,Bad Reputation,"Drama, Horror, Thriller",4.2,okay,90,no data
 2508,2006,Batismo de Sangue,Drama,7.1,good,110,really long movie
 2509,2005,The Call of Cthulhu,"Fantasy, Horror, Mystery",7.2,good,47,short movie
-2510,2006,Citizen Duane,Comedy,5.1,okay,90,really long movie
+2510,2006,Citizen Duane,Comedy,5.1,okay,90,no data
 2511,2005,Karov La Bayit,Drama,6.9,good,98,really long movie
 2512,2006,G.I. Jesus,"Drama, Fantasy",2.0,bad,100,really long movie
 2513,2005,The Goal,"Biography, Drama, Family",4.7,okay,100,really long movie
@@ -2517,8 +2517,8 @@
 2515,2006,Rocky Balboa,"Drama, Sport",7.1,good,102,really long movie
 2516,2005,Rastegari dar 8:20,"Crime, Drama",4.9,okay,107,really long movie
 2517,2006,Special,"Comedy, Drama, Sci-Fi",6.9,good,81,avg length movie
-2518,2005,El taxista ful,Drama,6.8,good,90,really long movie
-2519,2006,The 8th Plague,"Action, Horror",4.2,okay,90,really long movie
+2518,2005,El taxista ful,Drama,6.8,good,90,no data
+2519,2006,The 8th Plague,"Action, Horror",4.2,okay,90,no data
 2520,2006,Un Franco 14 Pesetas,"Comedy, Drama",7.1,good,102,really long movie
 2521,2005,Masz na imie Justine,Thriller,6.4,good,97,really long movie
 2522,2005,"Pare osób, maly czas","Biography, Drama, Romance",6.7,good,104,really long movie
@@ -2544,7 +2544,7 @@
 2542,2005,Dunia,"Drama, Romance",5.9,okay,112,really long movie
 2543,2006,Flourish,"Comedy, Drama, Mystery",4.8,okay,95,really long movie
 2544,2006,Heroes and Villains,"Comedy, Romance",3.2,okay,104,really long movie
-2545,2006,Off the Black,Drama,6.6,good,90,really long movie
+2545,2006,Off the Black,Drama,6.6,good,90,no data
 2546,2006,The Sensation of Sight,Drama,6.6,good,134,really long movie
 2547,2006,This Is England,"Crime, Drama",7.7,good,101,really long movie
 2548,2006,Vacationland,"Drama, Romance",5.0,okay,104,really long movie
@@ -2559,7 +2559,7 @@
 2557,2006,Van Wilder 2: The Rise of Taj,"Comedy, Romance",4.9,okay,97,really long movie
 2558,2005,La Sagrada Familia,Drama,6.3,good,99,really long movie
 2559,2006,Alexander the Great,Animation,5.3,okay,80,avg length movie
-2560,2006,Canes,"Horror, Thriller",3.5,okay,90,really long movie
+2560,2006,Canes,"Horror, Thriller",3.5,okay,90,no data
 2561,2005,Mein Name ist Eugen,"Adventure, Comedy, Family",6.9,good,100,really long movie
 2562,2006,Pyaar Ke Side Effects,"Comedy, Drama, Romance",6.7,good,132,really long movie
 2563,2006,Tachiguishi retsuden,"Animation, Comedy, Drama",6.2,good,104,really long movie
@@ -2585,17 +2585,17 @@
 2583,2006,Grønne hjerter,Comedy,5.0,okay,96,really long movie
 2584,2006,Displaced,"Action, Adventure, Sci-Fi",2.8,bad,99,really long movie
 2585,2006,Distortion,"Crime, Drama, Mystery",4.6,okay,83,avg length movie
-2586,2006,Feel,Drama,5.3,okay,90,really long movie
-2587,2006,Hollywood Kills,"Horror, Thriller",3.2,okay,90,really long movie
+2586,2006,Feel,Drama,5.3,okay,90,no data
+2587,2006,Hollywood Kills,"Horror, Thriller",3.2,okay,90,no data
 2588,2006,Honor,"Action, Drama",4.3,okay,87,avg length movie
 2589,2006,The House of Adam,"Crime, Drama, Horror",3.5,okay,83,avg length movie
 2590,2006,Lime Salted Love,Drama,4.7,okay,120,really long movie
 2591,2006,Maple Palm,"Comedy, Drama, Romance",1.5,bad,116,really long movie
 2592,2006,Mischief Night,"Comedy, Drama, Family",6.4,good,93,really long movie
 2593,2006,Pathogen,Horror,5.3,okay,68,avg length movie
-2594,2005,The Retreat,Horror,2.8,bad,90,really long movie
+2594,2005,The Retreat,Horror,2.8,bad,90,no data
 2595,2005,Sarangni,"Drama, Romance",5.5,okay,115,really long movie
-2596,2006,Het zwijgen,Mystery,6.2,good,90,really long movie
+2596,2006,Het zwijgen,Mystery,6.2,good,90,no data
 2597,2006,Fidibus,Comedy,5.7,okay,107,really long movie
 2598,2005,Yamim Shel Ahava,"Drama, Music",2.7,bad,110,really long movie
 2599,2006,Ji quan bu ning,"Comedy, Drama",6.2,good,106,really long movie
@@ -2638,7 +2638,7 @@
 2636,2006,"Lovers, Liars and Lunatics","Comedy, Crime",6.7,good,87,avg length movie
 2637,2006,Man of the Year,"Comedy, Drama, Romance",6.2,good,115,really long movie
 2638,2006,Morirse en domingo,"Comedy, Drama",7.0,good,125,really long movie
-2639,2005,Pheuan sanit,"Drama, Romance",7.9,good,90,really long movie
+2639,2005,Pheuan sanit,"Drama, Romance",7.9,good,90,no data
 2640,2006,Stephanie Daley,Drama,6.3,good,92,really long movie
 2641,2006,Vier Fenster,Drama,4.6,okay,80,avg length movie
 2642,2005,Gwai muk,Horror,5.7,okay,99,really long movie
@@ -2655,14 +2655,14 @@
 2653,2005,Döngel kârhanesi,Comedy,5.6,okay,92,really long movie
 2654,2005,I horodia tou Haritona,"Comedy, Music",6.7,good,135,really long movie
 2655,2006,Köld slóð,"Drama, Mystery, Thriller",6.1,good,99,really long movie
-2656,2006,Sprængfarlig bombe,"Comedy, Drama",6.0,okay,90,really long movie
+2656,2006,Sprængfarlig bombe,"Comedy, Drama",6.0,okay,90,no data
 2657,2006,One Way,Thriller,6.2,good,116,really long movie
 2658,2006,Ich bin die Andere,Drama,5.2,okay,104,really long movie
 2659,2006,Legãturi bolnãvicioase,Drama,6.8,good,86,avg length movie
 2660,2005,"Percy, Buffalo Bill och jag","Adventure, Family, Romance",5.5,okay,83,avg length movie
 2661,2006,Friss levegö,Drama,6.8,good,109,really long movie
 2662,2005,The GoodTimesKid,"Action, Comedy",6.5,good,77,avg length movie
-2663,2006,The Pleasure of Your Company,"Comedy, Romance",5.6,okay,90,really long movie
+2663,2006,The Pleasure of Your Company,"Comedy, Romance",5.6,okay,90,no data
 2664,2005,Zan-e ziadi,Drama,5.4,okay,103,really long movie
 2665,2006,"Bañeros III, todopoderosos","Action, Adventure, Comedy",1.9,bad,92,really long movie
 2666,2005,Masterclass,Drama,7.0,good,70,avg length movie
@@ -2686,10 +2686,10 @@
 2684,2006,Balram vs. Tharadas,"Action, Crime, Thriller",2.9,bad,161,really long movie
 2685,2006,Mo gong,"Action, Drama, War",6.7,good,133,really long movie
 2686,2006,Gamers,Comedy,7.9,good,84,avg length movie
-2687,2006,Jack's Law,"Action, Crime, Drama",3.6,okay,90,really long movie
+2687,2006,Jack's Law,"Action, Crime, Drama",3.6,okay,90,no data
 2688,2006,Keerthi Chakra,"Action, Drama, War",7.2,good,130,really long movie
 2689,2006,The Lather Effect,"Comedy, Drama",6.2,good,95,really long movie
-2690,2006,Outlaw Trail: The Treasure of Butch Cassidy,"Adventure, Family, Western",5.6,okay,90,really long movie
+2690,2006,Outlaw Trail: The Treasure of Butch Cassidy,"Adventure, Family, Western",5.6,okay,90,no data
 2691,2006,Bo bui gai wak,"Action, Comedy, Crime",6.6,good,136,really long movie
 2692,2006,Summer Love,Western,3.5,okay,94,really long movie
 2693,2006,Thr3e,"Drama, Horror, Mystery",5.0,okay,101,really long movie
@@ -2702,7 +2702,7 @@
 2700,2006,Gui si,"Horror, Mystery, Sci-Fi",6.4,good,108,really long movie
 2701,2006,Beerfest,Comedy,6.3,good,110,really long movie
 2702,2006,Big Dreams Little Tokyo,"Comedy, Romance",6.4,good,86,avg length movie
-2703,2006,Sasquatch Mountain,"Action, Adventure, Horror",3.7,okay,90,really long movie
+2703,2006,Sasquatch Mountain,"Action, Adventure, Horror",3.7,okay,90,no data
 2704,2006,The Dog Problem,Comedy,6.3,good,88,avg length movie
 2705,2006,The Last Stand,"Comedy, Drama",4.1,okay,109,really long movie
 2706,2005,Lie Still,Horror,4.3,okay,80,avg length movie
@@ -2716,7 +2716,7 @@
 2714,2005,Sen ne dilersen,Drama,6.4,good,115,really long movie
 2715,2006,U,"Animation, Family, Musical",6.6,good,75,avg length movie
 2716,2006,Chacun sa nuit,Drama,5.8,okay,95,really long movie
-2717,2005,The Vampire Conspiracy,Horror,3.0,okay,90,really long movie
+2717,2005,The Vampire Conspiracy,Horror,3.0,okay,90,no data
 2718,2005,Shaere zobale-ha,"Drama, Romance",5.6,okay,80,avg length movie
 2719,2005,Anandabhadram,"Drama, Fantasy, Horror",7.1,good,130,really long movie
 2720,2006,FC Venus,"Comedy, Romance, Sport",5.8,okay,100,really long movie
@@ -2752,14 +2752,14 @@
 2750,2005,Umezu Kazuo: Kyôfu gekijô - Purezento,Horror,4.9,okay,49,short movie
 2751,2005,Rap nawng sayawng khwan,Horror,5.3,okay,81,avg length movie
 2752,2005,Seua khaap daap,"Action, Comedy, Fantasy",4.5,okay,91,really long movie
-2753,2006,Yellow,"Drama, Music, Romance",5.2,okay,90,really long movie
+2753,2006,Yellow,"Drama, Music, Romance",5.2,okay,90,no data
 2754,2006,The Bong Connection,Drama,6.7,good,131,really long movie
 2755,2006,Corporate,Drama,6.5,good,142,really long movie
-2756,2006,Kisik Ateste 15 Dakika,"Comedy, Drama",6.2,good,90,really long movie
+2756,2006,Kisik Ateste 15 Dakika,"Comedy, Drama",6.2,good,90,no data
 2757,2006,Omkara,"Action, Crime, Drama",8.1,good,155,really long movie
 2758,2006,Farce of the Penguins,"Animation, Comedy",4.1,okay,80,avg length movie
 2759,2006,Kidô senshi Z Gandamu III: Hoshi no kodô wa ai,"Animation, Action, Drama",6.7,good,99,really long movie
-2760,2006,Unaccompanied Minors,"Adventure, Comedy, Family",5.3,okay,90,really long movie
+2760,2006,Unaccompanied Minors,"Adventure, Comedy, Family",5.3,okay,90,no data
 2761,2005,Gwangshiki dongsaeng gwangtae,"Comedy, Romance",6.7,good,104,really long movie
 2762,2005,Miseuteo Sokeurateseu,"Action, Crime",6.3,good,109,really long movie
 2763,2005,Muyeong geom,"Action, Adventure, History",6.5,good,117,really long movie
@@ -2773,11 +2773,11 @@
 2771,2006,Zinda,"Action, Drama, Mystery",4.9,okay,116,really long movie
 2772,2006,Guilty Hearts,Drama,4.7,okay,180,really long movie
 2773,2006,Big Bad Wolf,"Comedy, Horror",5.3,okay,95,really long movie
-2774,2005,Circadian Rhythm,"Action, Crime, Drama",1.9,bad,90,really long movie
+2774,2005,Circadian Rhythm,"Action, Crime, Drama",1.9,bad,90,no data
 2775,2006,A Crime,"Crime, Thriller",5.7,okay,103,really long movie
 2776,2005,Dangerous Men,"Action, Adventure, Crime",4.4,okay,80,avg length movie
 2777,2006,Darkworld,Horror,2.0,bad,83,avg length movie
-2778,2005,Hak bak jin cheung,"Crime, Drama",6.5,good,90,really long movie
+2778,2005,Hak bak jin cheung,"Crime, Drama",6.5,good,90,no data
 2779,2006,I-See-You.com,Comedy,5.5,okay,92,really long movie
 2780,2006,Night of the Living Dead 3D,Horror,3.1,okay,80,avg length movie
 2781,2006,Saw III,"Horror, Mystery, Thriller",6.2,good,108,really long movie
@@ -2792,11 +2792,11 @@
 2790,2006,Kútfejek,"Action, Comedy",5.6,okay,105,really long movie
 2791,2006,Las manos,Drama,6.9,good,119,really long movie
 2792,2006,Muito Gelo e Dois Dedos D'Água,Comedy,5.8,okay,108,really long movie
-2793,2005,Pitbullterje,Comedy,5.7,okay,90,really long movie
+2793,2005,Pitbullterje,Comedy,5.7,okay,90,no data
 2794,2006,Sickness House,Horror,2.2,bad,70,avg length movie
 2795,2006,The Ten Commandments: The Musical,Musical,5.5,okay,120,really long movie
 2796,2006,Warchild,Drama,6.5,good,103,really long movie
-2797,2006,All the Boys Love Mandy Lane,Horror,5.5,okay,90,really long movie
+2797,2006,All the Boys Love Mandy Lane,Horror,5.5,okay,90,no data
 2798,2005,Umezu Kazuo: Kyôfu gekijô - Zesshoku,Horror,5.0,okay,67,avg length movie
 2799,2006,London to Brighton,"Crime, Drama, Thriller",6.9,good,85,avg length movie
 2800,2006,Phat Girlz,Comedy,3.2,okay,99,really long movie
@@ -2840,12 +2840,12 @@
 2838,2006,Sarang-eul nochida,Romance,6.0,okay,115,really long movie
 2839,2005,Kimyô na sâkasu,"Drama, Horror, Mystery",7.0,good,108,really long movie
 2840,2005,Wang-ui namja,"Drama, History",7.4,good,119,really long movie
-2841,2006,Antônia,"Drama, Musical",6.4,good,90,really long movie
+2841,2006,Antônia,"Drama, Musical",6.4,good,90,no data
 2842,2006,Subject Two,"Drama, Thriller",5.4,okay,93,really long movie
 2843,2005,A Concepção,Drama,5.5,okay,96,really long movie
 2844,2006,Destricted,Drama,4.5,okay,116,really long movie
 2845,2005,Eu Me Lembro,Drama,6.1,good,108,really long movie
-2846,2005,Andel páne,"Comedy, Family, Fantasy",6.9,good,90,really long movie
+2846,2005,Andel páne,"Comedy, Family, Fantasy",6.9,good,90,no data
 2847,2005,Ti amo in tutte le lingue del mondo,Comedy,5.8,okay,99,really long movie
 2848,2005,Andrea,"Horror, Thriller",4.4,okay,110,really long movie
 2849,2006,Gin-iro no kami no Agito,"Animation, Drama, Romance",6.5,good,95,really long movie
@@ -2854,14 +2854,14 @@
 2852,2006,8 of Diamonds,Crime,4.0,okay,89,avg length movie
 2853,2006,Annavaram,"Action, Drama",4.8,okay,175,really long movie
 2854,2006,Devil's Den,"Action, Comedy, Fantasy",4.8,okay,84,avg length movie
-2855,2006,True True Lie,Thriller,4.5,okay,90,really long movie
+2855,2006,True True Lie,Thriller,4.5,okay,90,no data
 2856,2006,Hiding Victoria,Drama,5.3,okay,98,really long movie
 2857,2005,Liebeskind,Drama,5.7,okay,85,avg length movie
 2858,2006,Apna Sapna Money Money,"Comedy, Musical, Romance",5.2,okay,134,really long movie
 2859,2005,Pettson & Findus - Tomtemaskinen,"Animation, Comedy, Family",6.3,good,79,avg length movie
 2860,2006,Sixty Six,"Biography, Comedy, Drama",6.7,good,93,really long movie
-2861,2006,Sl8n8,"Action, Horror, Thriller",5.2,okay,90,really long movie
-2862,2006,Soul's Midnight,"Horror, Thriller",4.2,okay,90,really long movie
+2861,2006,Sl8n8,"Action, Horror, Thriller",5.2,okay,90,no data
+2862,2006,Soul's Midnight,"Horror, Thriller",4.2,okay,90,no data
 2863,2006,Waru,"Action, Crime, Drama",5.1,okay,84,avg length movie
 2864,2005,Purei,Horror,5.2,okay,77,avg length movie
 2865,2006,5ive Girls,"Horror, Thriller",4.4,okay,95,really long movie
@@ -2880,12 +2880,12 @@
 2878,2006,Ashita no kioku,Drama,7.4,good,122,really long movie
 2879,2006,Black Eyed Dog,Drama,5.8,okay,91,really long movie
 2880,2005,Ichi ritoru no namida,Drama,7.9,good,98,really long movie
-2881,2006,The Last Sect,"Horror, Thriller",3.7,okay,90,really long movie
+2881,2006,The Last Sect,"Horror, Thriller",3.7,okay,90,no data
 2882,2006,Sairen,"Horror, Thriller",5.6,okay,87,avg length movie
 2883,2005,The Zero Years,"Drama, Sci-Fi",6.4,good,123,really long movie
 2884,2006,On va s'aimer,"Comedy, Musical, Romance",5.0,okay,97,really long movie
 2885,2006,Ankahee,"Biography, Drama, Romance",4.1,okay,151,really long movie
-2886,2006,Dood eind,"Horror, Thriller",4.6,okay,90,really long movie
+2886,2006,Dood eind,"Horror, Thriller",4.6,okay,90,no data
 2887,2006,Gangster,"Action, Crime, Drama",7.1,good,123,really long movie
 2888,2006,Gatão de Meia Idade,Comedy,4.5,okay,93,really long movie
 2889,2006,Golmaal: Fun Unlimited,"Action, Comedy, Drama",7.4,good,150,really long movie
@@ -2898,7 +2898,7 @@
 2896,2006,Rene hjerter,Drama,6.5,good,82,avg length movie
 2897,2006,Gedo senki,"Animation, Adventure, Fant",6.5,good,115,really long movie
 2898,2005,Rainbow boy... Rung tua thii paet khawng khwaam rak,"Comedy, Drama, Romance",5.5,okay,100,really long movie
-2899,2006,Vidange perdue,Drama,6.6,good,90,really long movie
+2899,2006,Vidange perdue,Drama,6.6,good,90,no data
 2900,2006,The Quick and the Undead,"Action, Horror, Western",2.7,bad,80,avg length movie
 2901,2006,Dek hor,"Drama, Horror",6.9,good,110,really long movie
 2902,2005,Sum muepuen,"Action, Crime, Drama",5.2,okay,95,really long movie
@@ -2906,7 +2906,7 @@
 2904,2006,Neandertal,Drama,6.0,okay,105,really long movie
 2905,2006,Ame no machi,Horror,5.5,okay,95,really long movie
 2906,2006,Body Rice,Drama,4.8,okay,120,really long movie
-2907,2006,Fimfárum 2,Animation,7.1,good,90,really long movie
+2907,2006,Fimfárum 2,Animation,7.1,good,90,no data
 2908,2006,The Hottest State,"Drama, Music, Romance",6.1,good,117,really long movie
 2909,2006,The Marsh,"Horror, Thriller",4.8,okay,92,really long movie
 2910,2006,Sonja,Drama,5.9,okay,72,avg length movie
@@ -2923,7 +2923,7 @@
 2921,2005,Bosta,"Musical, War",6.5,good,142,really long movie
 2922,2006,"Dance Party, USA",Drama,6.3,good,65,avg length movie
 2923,2006,True North,"Drama, Thriller",6.9,good,96,really long movie
-2924,2005,Guerilla Marketing,Drama,7.1,good,90,really long movie
+2924,2005,Guerilla Marketing,Drama,7.1,good,90,no data
 2925,2006,The Last Romantic,"Comedy, Drama",6.0,okay,88,avg length movie
 2926,2006,Marcus,"Horror, Thriller",3.7,okay,75,avg length movie
 2927,2006,Naked Beneath the Water,"Horror, Thriller",2.9,bad,88,avg length movie
@@ -2941,7 +2941,7 @@
 2939,2006,Shi gan,"Drama, Mystery, Romance",7.2,good,97,really long movie
 2940,2006,Iklimler,"Drama, Romance",7.2,good,98,really long movie
 2941,2006,Le dernier des fous,Drama,6.5,good,95,really long movie
-2942,2006,Madame Irma,Comedy,5.6,okay,90,really long movie
+2942,2006,Madame Irma,Comedy,5.6,okay,90,no data
 2943,2006,Mauvaise foi,"Comedy, Drama",6.1,good,88,avg length movie
 2944,2006,Coeurs,"Drama, Romance",6.9,good,120,really long movie
 2945,2006,Pardonnez-moi,Drama,6.4,good,88,avg length movie
@@ -2950,7 +2950,7 @@
 2948,2006,Wholetrain,Drama,7.1,good,82,avg length movie
 2949,2005,Ido,"Drama, Horror, Mystery",4.6,okay,104,really long movie
 2950,2006,Gwai wik,"Fantasy, Horror, Mystery",6.1,good,108,really long movie
-2951,2006,Camjackers,Comedy,3.9,okay,90,really long movie
+2951,2006,Camjackers,Comedy,3.9,okay,90,no data
 2952,2006,Letters from Iwo Jima,"Action, Adventure, Drama",7.9,good,141,really long movie
 2953,2006,The Slaughter,"Comedy, Horror",3.7,okay,96,really long movie
 2954,2006,Stump the Band,Horror,4.4,okay,88,avg length movie
@@ -2964,7 +2964,7 @@
 2962,2006,Yoru no pikunikku,Drama,6.9,good,117,really long movie
 2963,2006,GAL,"Drama, Thriller",5.2,okay,105,really long movie
 2964,2005,Gol-e yakh,"Drama, Romance",4.0,okay,94,really long movie
-2965,2006,Adama Meshuga'at,Drama,7.2,good,90,really long movie
+2965,2006,Adama Meshuga'at,Drama,7.2,good,90,no data
 2966,2006,Att göra en pudel,"Comedy, Romance",4.7,okay,92,really long movie
 2967,2006,Du & jag,"Drama, Romance",5.3,okay,88,avg length movie
 2968,2005,Kalyug,"Action, Crime, Drama",6.5,good,126,really long movie
@@ -2973,8 +2973,8 @@
 2971,2006,Yi sa bui lai,Drama,7.0,good,91,really long movie
 2972,2006,Slumming,"Comedy, Drama",7.0,good,100,really long movie
 2973,2006,Zemestan,Drama,6.7,good,86,avg length movie
-2974,2006,Dün gece bir rüya gördüm,Drama,4.2,okay,90,really long movie
-2975,2006,Milarepa,"Action, Adventure, Biograp",7.0,good,90,really long movie
+2974,2006,Dün gece bir rüya gördüm,Drama,4.2,okay,90,no data
+2975,2006,Milarepa,"Action, Adventure, Biograp",7.0,good,90,no data
 2976,2006,Takva,Drama,7.5,good,96,really long movie
 2977,2005,Yongseobadji mothan ja,Drama,6.8,good,121,really long movie
 2978,2005,Barrio Cuba,Drama,6.2,good,105,really long movie
@@ -2983,7 +2983,7 @@
 2981,2006,Pochi no kokuhaku,"Crime, Drama",6.8,good,195,really long movie
 2982,2006,Day Night Day Night,"Crime, Drama, Thriller",6.2,good,94,really long movie
 2983,2006,Dracula's Curse,"Action, Horror",3.0,okay,107,really long movie
-2984,2006,Elipsis,"Crime, Drama, Thriller",6.6,good,90,really long movie
+2984,2006,Elipsis,"Crime, Drama, Thriller",6.6,good,90,no data
 2985,2006,The Genius Club,"Drama, Thriller",5.8,okay,119,really long movie
 2986,2006,LoveDeath,Action,6.3,good,158,really long movie
 2987,2006,Chun tian hua hua tong xue hui,"Animation, Comedy, Fantasy",5.2,okay,95,really long movie
@@ -2997,7 +2997,7 @@
 2995,2005,Ninas resa,Drama,6.7,good,120,really long movie
 2996,2005,Loufa kai parallagi: Seirines sto Aigaio,Comedy,5.5,okay,115,really long movie
 2997,2006,Poludnie - Pólnoc,"Drama, Romance",6.7,good,93,really long movie
-2998,2005,Yamim Kfuim,"Drama, Mystery, Thriller",6.9,good,90,really long movie
+2998,2005,Yamim Kfuim,"Drama, Mystery, Thriller",6.9,good,90,no data
 2999,2006,Arc,Drama,5.9,okay,113,really long movie
 3000,2006,Göta kanal 2 - Kanalkampen,Comedy,3.2,okay,94,really long movie
 3001,2006,Lucy,"Drama, Romance",6.6,good,93,really long movie
@@ -3014,17 +3014,17 @@
 3012,2006,Prinzessin,"Drama, Romance",6.8,good,82,avg length movie
 3013,2006,Tusabu Ilche,"Action, Comedy",5.7,okay,124,really long movie
 3014,2005,Wo men lia,Drama,7.3,good,88,avg length movie
-3015,2006,Ye man mi ji,"Action, Comedy, Fantasy",5.3,okay,90,really long movie
+3015,2006,Ye man mi ji,"Action, Comedy, Fantasy",5.3,okay,90,no data
 3016,2006,Son-nim-eun-wang-e-da,Crime,6.5,good,104,really long movie
 3017,2006,Sukob,"Drama, Horror, Thriller",6.2,good,110,really long movie
-3018,2005,Nuit noire,"Drama, Mystery, Sci-Fi",6.6,good,90,really long movie
+3018,2005,Nuit noire,"Drama, Mystery, Sci-Fi",6.6,good,90,no data
 3019,2006,Gradually,Drama,6.1,good,80,avg length movie
 3020,2006,Chalk,"Comedy, Drama",6.2,good,85,avg length movie
 3021,2006,Death Note,"Crime, Drama, Fantasy",7.7,good,126,really long movie
 3022,2006,The Insurgents,"Drama, Thriller",4.9,okay,82,avg length movie
 3023,2006,The Legend of Simon Conjurer,"Action, Thriller",4.7,okay,137,really long movie
 3024,2006,Little Chenier,Drama,7.0,good,120,really long movie
-3025,2006,Seed,Horror,3.0,okay,90,really long movie
+3025,2006,Seed,Horror,3.0,okay,90,no data
 3026,2006,Things to Do,Comedy,5.2,okay,85,avg length movie
 3027,2006,We Are Marshall,"Drama, Sport",7.1,good,131,really long movie
 3028,2006,Changement d'adresse,Comedy,6.6,good,85,avg length movie
@@ -3036,7 +3036,7 @@
 3034,2006,Addison's Wall,Drama,4.4,okay,61,avg length movie
 3035,2006,Cocaine Angel,Drama,5.3,okay,75,avg length movie
 3036,2006,Domestic Import,Comedy,4.3,okay,102,really long movie
-3037,2006,For Sale by Owner,Thriller,3.8,okay,90,really long movie
+3037,2006,For Sale by Owner,Thriller,3.8,okay,90,no data
 3038,2006,Honeymoon with Mom,Comedy,4.7,okay,120,really long movie
 3039,2006,I'll Be There with You,Thriller,4.5,okay,92,really long movie
 3040,2006,The Nativity Story,"Drama, Family, History",6.8,good,101,really long movie
@@ -3051,7 +3051,7 @@
 3049,2006,Vete de mí,"Comedy, Drama",6.3,good,95,really long movie
 3050,2006,Bye Bye Berlusconi!,Comedy,5.3,okay,89,avg length movie
 3051,2006,Eden,"Drama, Romance",7.1,good,98,really long movie
-3052,2006,Special Dead,"Comedy, Horror",4.5,okay,90,really long movie
+3052,2006,Special Dead,"Comedy, Horror",4.5,okay,90,no data
 3053,2005,Tainos,"Action, Adventure, Drama",5.4,okay,117,really long movie
 3054,2006,Fu zi,Drama,6.8,good,121,really long movie
 3055,2006,Hura gâru,"Comedy, Drama",7.2,good,121,really long movie
@@ -3083,7 +3083,7 @@
 3081,2006,Cheech,Drama,6.3,good,104,really long movie
 3082,2006,Il mercante di pietre,"Drama, Thriller",4.2,okay,119,really long movie
 3083,2005,?,"Adventure, Comedy, Drama",5.3,okay,112,really long movie
-3084,2006,Duh u mocvari,"Adventure, Family, Mystery",6.0,okay,90,really long movie
+3084,2006,Duh u mocvari,"Adventure, Family, Mystery",6.0,okay,90,no data
 3085,2006,Supervoksen,Drama,5.5,okay,92,really long movie
 3086,2006,La última mirada,"Drama, Romance",6.1,good,123,really long movie
 3087,2006,Cheongchun-manhwa,"Comedy, Romance",6.5,good,116,really long movie
@@ -3104,7 +3104,7 @@
 3102,2006,Jasminum,"Comedy, Romance",7.0,good,115,really long movie
 3103,2006,Mon meilleur ami,Comedy,6.7,good,94,really long movie
 3104,2006,Kabe-otoko,"Crime, Drama, Horror",5.1,okay,98,really long movie
-3105,2005,Amnesia: The James Brighton Enigma,Drama,6.2,good,90,really long movie
+3105,2005,Amnesia: The James Brighton Enigma,Drama,6.2,good,90,no data
 3106,2006,Teesri Aankh: The Hidden Camera,"Action, Crime, Thriller",2.5,bad,111,really long movie
 3107,2006,Black Sheep,"Comedy, Horror, Sci-Fi",5.8,okay,87,avg length movie
 3108,2005,Maxx,"Comedy, Musical",6.1,good,110,really long movie
@@ -3114,7 +3114,7 @@
 3112,2006,"Wer früher stirbt, ist länger tot","Comedy, Drama",7.5,good,104,really long movie
 3113,2006,The 4th Dimension,"Drama, Fantasy, Mystery",5.6,okay,82,avg length movie
 3114,2006,Canvas,Drama,6.6,good,101,really long movie
-3115,2006,"Easter Bunny, Kill! Kill!",Horror,4.6,okay,90,really long movie
+3115,2006,"Easter Bunny, Kill! Kill!",Horror,4.6,okay,90,no data
 3116,2006,¿Por qué se frotan las patitas?,"Comedy, Musical",5.9,okay,105,really long movie
 3117,2006,Prison of the Psychotic Damned: Terminal Remix,Horror,1.9,bad,100,really long movie
 3118,2006,Shock to the System,"Crime, Drama, Mystery",6.7,good,91,really long movie
@@ -3138,7 +3138,7 @@
 3136,2005,Vilniaus getas,"History, War",6.8,good,110,really long movie
 3137,2006,In the Dark,"Crime, Drama",3.6,okay,89,avg length movie
 3138,2006,El cielo dividido,"Drama, Romance",5.6,okay,140,really long movie
-3139,2006,Más que a nada en el mundo,"Drama, Fantasy",6.6,good,90,really long movie
+3139,2006,Más que a nada en el mundo,"Drama, Fantasy",6.6,good,90,no data
 3140,2006,Colma: The Musical,"Comedy, Drama, Musical",6.4,good,100,really long movie
 3141,2006,Heartbreak Hotel,Comedy,5.1,okay,110,really long movie
 3142,2006,Love's Abiding Joy,"Drama, Family, Western",7.0,good,87,avg length movie
@@ -3158,7 +3158,7 @@
 3156,2005,Zulo,"Drama, Thriller",4.7,okay,82,avg length movie
 3157,2006,Jin tian de yu zen me yang?,Drama,6.1,good,83,avg length movie
 3158,2006,Keillers park,"Drama, Romance",5.6,okay,91,really long movie
-3159,2006,Les ambitieux,"Comedy, Romance",5.9,okay,90,really long movie
+3159,2006,Les ambitieux,"Comedy, Romance",5.9,okay,90,no data
 3160,2006,Les anges exterminateurs,"Drama, Fantasy",5.4,okay,100,really long movie
 3161,2006,La faute à Fidel!,"Drama, History",7.5,good,99,really long movie
 3162,2006,Bihisht faqat baroi murdagon,"Crime, Drama",6.6,good,92,really long movie
@@ -3178,10 +3178,10 @@
 3176,2006,Midnight Clear,Drama,6.2,good,103,really long movie
 3177,2006,Úcastníci zájezdu,Comedy,6.1,good,113,really long movie
 3178,2006,Fong juk,"Action, Crime, Thriller",7.3,good,110,really long movie
-3179,2005,Grodmin,Drama,2.1,bad,90,really long movie
+3179,2005,Grodmin,Drama,2.1,bad,90,no data
 3180,2006,Zoop in India,"Adventure, Comedy, Drama",4.9,okay,103,really long movie
 3181,2006,Duo,Comedy,5.0,okay,104,really long movie
-3182,2006,Cara de queso 'mi primer ghetto',"Comedy, Drama",6.1,good,90,really long movie
+3182,2006,Cara de queso 'mi primer ghetto',"Comedy, Drama",6.1,good,90,no data
 3183,2006,Mientras tanto,Drama,6.0,okay,92,really long movie
 3184,2006,Kariseuma talchulgi,Comedy,6.2,good,100,really long movie
 3185,2005,Hazard,"Crime, Drama",6.9,good,103,really long movie
@@ -3193,35 +3193,35 @@
 3191,2006,Berbagi Suami,"Comedy, Drama",7.5,good,120,really long movie
 3192,2006,Cum mi-am petrecut sfârsitul lumii,Drama,7.2,good,106,really long movie
 3193,2006,Electroma,"Drama, Sci-Fi",6.9,good,74,avg length movie
-3194,2006,Lockout,"Horror, Mystery, Thriller",3.9,okay,90,really long movie
+3194,2006,Lockout,"Horror, Mystery, Thriller",3.9,okay,90,no data
 3195,2006,Mon colonel,"Crime, Drama, History",7.0,good,110,really long movie
 3196,2006,Pingpong,Drama,6.5,good,89,avg length movie
 3197,2006,'n Beetje Verliefd,"Comedy, Romance",5.4,okay,82,avg length movie
-3198,2006,Shoot the Messenger,Drama,6.6,good,90,really long movie
+3198,2006,Shoot the Messenger,Drama,6.6,good,90,no data
 3199,2006,Swedish Auto,Drama,6.1,good,97,really long movie
 3200,2006,Vindication,Horror,5.7,okay,95,really long movie
 3201,2006,Z odzysku,Drama,6.6,good,103,really long movie
-3202,2006,Daddy's Girl,"Horror, Thriller",4.5,okay,90,really long movie
-3203,2006,Marvelous,"Comedy, Drama",4.2,okay,90,really long movie
+3202,2006,Daddy's Girl,"Horror, Thriller",4.5,okay,90,no data
+3203,2006,Marvelous,"Comedy, Drama",4.2,okay,90,no data
 3204,2006,S&man,Horror,5.7,okay,84,avg length movie
 3205,2006,Sei dai tinwong,"Comedy, Drama, Music",6.7,good,83,avg length movie
 3206,2006,Anthony Kaun Hai?,"Mystery, Thriller",5.4,okay,127,really long movie
 3207,2006,Suden arvoitus,"Adventure, Drama, Family",5.5,okay,96,really long movie
 3208,2006,The Monster of Phantom Lake,"Comedy, Horror, Sci-Fi",5.6,okay,97,really long movie
-3209,2006,Analog Days,Drama,5.9,okay,90,really long movie
+3209,2006,Analog Days,Drama,5.9,okay,90,no data
 3210,2006,Doraemon: Nobita no kyôryû,"Animation, Adventure, Come",6.9,good,107,really long movie
 3211,2006,Nichts als Gespenster,Drama,6.3,good,120,really long movie
 3212,2006,Säg att du älskar mig,Drama,4.6,okay,87,avg length movie
 3213,2006,Que Dieu bénisse l'Amérique,"Drama, Thriller",6.5,good,110,really long movie
 3214,2006,The Amazing Grace,"Drama, History",5.6,okay,100,really long movie
-3215,2006,The Dork of the Rings,"Adventure, Comedy, Fantasy",3.2,okay,90,really long movie
+3215,2006,The Dork of the Rings,"Adventure, Comedy, Fantasy",3.2,okay,90,no data
 3216,2006,Niji no megami,"Drama, Romance",7.3,good,118,really long movie
 3217,2006,Bhagam Bhag,"Comedy, Mystery, Thriller",6.3,good,157,really long movie
 3218,2006,Blood Trails,"Horror, Thriller",3.5,okay,87,avg length movie
 3219,2006,Marilena de la P7,"Drama, Fantasy",7.9,good,48,short movie
-3220,2006,Hidden Secrets,"Comedy, Drama",5.7,okay,90,really long movie
+3220,2006,Hidden Secrets,"Comedy, Drama",5.7,okay,90,no data
 3221,2006,Kisarazu Cat's Eye: World Series,"Comedy, Drama",6.7,good,131,really long movie
-3222,2006,Blóðbönd,Drama,6.3,good,90,really long movie
+3222,2006,Blóðbönd,Drama,6.3,good,90,no data
 3223,2006,L'aria salata,Drama,7.1,good,87,avg length movie
 3224,2005,Bhadra,Action,6.7,good,153,really long movie
 3225,2006,Hao qi hai si mao,"Drama, Mystery",6.3,good,93,really long movie
@@ -3259,7 +3259,7 @@
 3257,2006,In 3 Tagen bist du tot,"Horror, Thriller",5.5,okay,97,really long movie
 3258,2005,Kaidan Shin Mimibukuro: Yûrei manshon,Horror,6.2,good,93,really long movie
 3259,2006,Kogitsune Heren,"Drama, Family",6.8,good,104,really long movie
-3260,2006,Machete,"Action, Adventure, Drama",6.8,good,90,really long movie
+3260,2006,Machete,"Action, Adventure, Drama",6.8,good,90,no data
 3261,2006,Modern Love,"Horror, Mystery",4.6,okay,110,really long movie
 3262,2006,My Dead Girlfriend,"Comedy, Horror",2.3,bad,73,avg length movie
 3263,2006,Nebo iznad krajolika,Comedy,6.6,good,86,avg length movie
@@ -3284,25 +3284,25 @@
 3282,2005,Tapete Vermelho,Comedy,7.0,good,100,really long movie
 3283,2006,Hachimitsu to kurôbâ,Romance,6.4,good,117,really long movie
 3284,2006,Love Com,"Comedy, Romance",6.3,good,99,really long movie
-3285,2006,The Pumpkin Karver,Horror,3.3,okay,90,really long movie
+3285,2006,The Pumpkin Karver,Horror,3.3,okay,90,no data
 3286,2006,Vita Smeralda,Comedy,2.4,bad,93,really long movie
 3287,2006,Asian Stories (Book 3),"Comedy, Drama",5.6,okay,98,really long movie
 3288,2006,Coming Soon,"Comedy, Fantasy",4.1,okay,106,really long movie
 3289,2006,Congorama,"Comedy, Drama",7.1,good,105,really long movie
 3290,2006,Costa Chica: Confession of an Exorcist,Horror,2.7,bad,82,avg length movie
-3291,2006,Court of Lonely Royals,"Drama, Thriller",4.5,okay,90,really long movie
+3291,2006,Court of Lonely Royals,"Drama, Thriller",4.5,okay,90,no data
 3292,2006,The Da Vinci Treasure,"Action, Adventure, Mystery",2.2,bad,91,really long movie
 3293,2006,"De ma fenêtre, sans maison...",Drama,6.8,good,88,avg length movie
 3294,2006,Death Note: The Last Name,"Adventure, Crime, Drama",7.2,good,141,really long movie
 3295,2006,Driller,"Horror, Sci-Fi",6.3,good,85,avg length movie
-3296,2006,Krummerne - Så er det jul igen,"Adventure, Family",4.1,okay,90,really long movie
+3296,2006,Krummerne - Så er det jul igen,"Adventure, Family",4.1,okay,90,no data
 3297,2006,Jiang cheng xia ri,Drama,6.5,good,88,avg length movie
 3298,2006,Nos amis les Terriens,Sci-Fi,5.3,okay,85,avg length movie
 3299,2006,Pirates of Treasure Island,"Action, Adventure",2.3,bad,85,avg length movie
 3300,2006,Stalking Santa,Comedy,5.4,okay,82,avg length movie
 3301,2006,Survival,Horror,3.7,okay,80,avg length movie
 3302,2006,Vargam,"Action, Crime",6.1,good,142,really long movie
-3303,2006,As esi tu,"Adventure, Romance",6.8,good,90,really long movie
+3303,2006,As esi tu,"Adventure, Romance",6.8,good,90,no data
 3304,2006,Boa... Nguu yak!,"Action, Adventure, Horror",2.5,bad,95,really long movie
 3305,2006,K3 en het ijsprinsesje,Family,5.6,okay,70,avg length movie
 3306,2005,To kako,"Action, Comedy, Horror",5.5,okay,83,avg length movie
@@ -3316,14 +3316,14 @@
 3314,2006,Anuranan,"Drama, Romance",6.8,good,113,really long movie
 3315,2006,Day on Fire,Drama,4.3,okay,91,really long movie
 3316,2006,Dil Diya Hai,"Drama, Romance, Thriller",3.4,okay,121,really long movie
-3317,2006,Ede megevé ebédem,Comedy,5.8,okay,90,really long movie
+3317,2006,Ede megevé ebédem,Comedy,5.8,okay,90,no data
 3318,2006,Sipur Hatzi-Russi,"Drama, Music, Romance",7.0,good,95,really long movie
 3319,2006,Love Life,Romance,5.3,okay,72,avg length movie
 3320,2006,Matichya Chuli,"Comedy, Drama",6.7,good,132,really long movie
 3321,2006,Obratnyy otschet,Action,5.8,okay,110,really long movie
 3322,2006,Rocky,"Action, Drama, Romance",4.0,okay,125,really long movie
 3323,2006,Séance,Horror,4.4,okay,88,avg length movie
-3324,2006,Ti lascio perché ti amo troppo,Comedy,5.7,okay,90,really long movie
+3324,2006,Ti lascio perché ti amo troppo,Comedy,5.7,okay,90,no data
 3325,2006,Les amitiés maléfiques,Drama,6.4,good,100,really long movie
 3326,2006,Bamako,Drama,6.7,good,115,really long movie
 3327,2006,Je pense à vous,"Comedy, Drama",5.2,okay,82,avg length movie
@@ -3352,7 +3352,7 @@
 3350,2006,Islander,Drama,6.5,good,100,really long movie
 3351,2006,Gau ngao gau,"Action, Crime, Drama",6.6,good,109,really long movie
 3352,2006,Jigyaasa,Drama,3.6,okay,147,really long movie
-3353,2006,Onni von Sopanen,Family,6.5,good,90,really long movie
+3353,2006,Onni von Sopanen,Family,6.5,good,90,no data
 3354,2006,Seelai ng yi cho,Drama,6.4,good,100,really long movie
 3355,2006,Rough,"Romance, Sport",5.9,okay,106,really long movie
 3356,2006,Otoshimono,Horror,5.0,okay,93,really long movie
@@ -3361,7 +3361,7 @@
 3359,2006,Casi casi,"Adventure, Comedy",5.9,okay,93,really long movie
 3360,2006,"Isi & Disi, alto voltaje",Comedy,4.3,okay,91,really long movie
 3361,2006,Izobrazhaya zhertvu,Comedy,7.2,good,95,really long movie
-3362,2005,Meatball Machine,"Action, Horror, Sci-Fi",5.7,okay,90,really long movie
+3362,2005,Meatball Machine,"Action, Horror, Sci-Fi",5.7,okay,90,no data
 3363,2006,A3 - Rock'n'Roll uzvraca udarac,"Comedy, Drama, Music",5.1,okay,86,avg length movie
 3364,2006,Shark Bait,"Animation, Family",4.2,okay,77,avg length movie
 3365,2006,Tochka,Drama,6.2,good,92,really long movie
@@ -3382,13 +3382,13 @@
 3380,2006,L'estate del mio primo bacio,Comedy,5.5,okay,84,avg length movie
 3381,2006,Fartovyy,"Crime, Drama",5.8,okay,93,really long movie
 3382,2006,Tennis no oujisama,Action,6.1,good,111,really long movie
-3383,2006,Una película de huevos,"Animation, Comedy, Family",6.4,good,90,really long movie
+3383,2006,Una película de huevos,"Animation, Comedy, Family",6.4,good,90,no data
 3384,2006,Daratt,Drama,6.9,good,96,really long movie
 3385,2006,Wages of Sin,Horror,2.5,bad,93,really long movie
 3386,2006,L'étoile du soldat,"Drama, History, War",6.8,good,100,really long movie
 3387,2006,The Pet,"Drama, Thriller",3.7,okay,94,really long movie
 3388,2006,Razsledvane,"Crime, Drama",6.7,good,95,really long movie
-3389,2006,Apateu,"Horror, Thriller",5.8,okay,90,really long movie
+3389,2006,Apateu,"Horror, Thriller",5.8,okay,90,no data
 3390,2006,Afblijven,"Drama, Family",5.3,okay,100,really long movie
 3391,2006,Arang,"Horror, Thriller",6.0,okay,97,really long movie
 3392,2006,Gang-jeok,"Action, Crime, Drama",6.0,okay,118,really long movie
@@ -3456,8 +3456,8 @@
 3454,2006,Quale amore,Drama,6.1,good,97,really long movie
 3455,2006,Pazachyt na myrtvite,Drama,6.9,good,105,really long movie
 3456,2006,The 9/11 Commission Report,"Drama, Thriller",3.1,okay,86,avg length movie
-3457,2006,Die Herbstzeitlosen,Comedy,7.1,good,90,really long movie
-3458,2006,O Céu de Suely,Drama,7.1,good,90,really long movie
+3457,2006,Die Herbstzeitlosen,Comedy,7.1,good,90,no data
+3458,2006,O Céu de Suely,Drama,7.1,good,90,no data
 3459,2006,Valerie,Drama,7.1,good,80,avg length movie
 3460,2006,Vaghti hame khab boodand,Drama,6.4,good,84,avg length movie
 3461,2006,Feng kuang de shi tou,"Comedy, Crime, Drama",7.6,good,98,really long movie
@@ -3481,7 +3481,7 @@
 3479,2006,Sin-de-rel-la,"Horror, Thriller",5.6,okay,94,really long movie
 3480,2006,Eve Dönüs,Drama,6.8,good,101,really long movie
 3481,2006,Hak bak dou,"Crime, Drama",6.5,good,88,avg length movie
-3482,2006,Küçük Kiyamet,"Drama, Fantasy, Horror",6.3,good,90,really long movie
+3482,2006,Küçük Kiyamet,"Drama, Fantasy, Horror",6.3,good,90,no data
 3483,2006,Yanda Kartavya Aahe,"Comedy, Romance",6.5,good,147,really long movie
 3484,2006,4-4-2 - Il gioco più bello del mondo,Comedy,5.8,okay,100,really long movie
 3485,2006,Broke,Comedy,2.7,bad,88,avg length movie
@@ -3497,7 +3497,7 @@
 3495,2006,Die and Let Live,"Comedy, Horror, Romance",3.2,okay,75,avg length movie
 3496,2006,Faith Like Potatoes,Drama,6.7,good,97,really long movie
 3497,2006,Ostrov,Drama,7.9,good,112,really long movie
-3498,2006,Papurika,"Animation, Drama, Fantasy",7.7,good,90,really long movie
+3498,2006,Papurika,"Animation, Drama, Fantasy",7.7,good,90,no data
 3499,2006,Tai yang yue,Drama,6.0,okay,94,really long movie
 3500,2006,Akumu tantei,"Fantasy, Horror, Thriller",6.1,good,106,really long movie
 3501,2006,Bhargavacharitham Moonnam Khandam,"Action, Comedy",2.9,bad,139,really long movie
@@ -3505,7 +3505,7 @@
 3503,2006,The Last Request,Comedy,3.5,okay,91,really long movie
 3504,2006,The Oakley Seven,"Horror, Thriller",3.7,okay,84,avg length movie
 3505,2006,Death of a President,"Crime, Drama, Mystery",6.3,good,97,really long movie
-3506,2006,Vampire Diary,"Drama, Fantasy, Horror",4.3,okay,90,really long movie
+3506,2006,Vampire Diary,"Drama, Fantasy, Horror",4.3,okay,90,no data
 3507,2006,Ahlaam,Drama,6.8,good,110,really long movie
 3508,2006,Seus Problemas Acabaram!!!,Comedy,4.2,okay,80,avg length movie
 3509,2006,Bes Vakit,Drama,7.3,good,111,really long movie
@@ -3527,7 +3527,7 @@
 3525,2006,The Last Porn Movie,Drama,3.1,okay,100,really long movie
 3526,2006,Vikramarkudu,Action,7.7,good,140,really long movie
 3527,2006,San xia hao ren,Drama,7.3,good,111,really long movie
-3528,2006,Daai cheung foo 2,"Comedy, Drama",5.2,okay,90,really long movie
+3528,2006,Daai cheung foo 2,"Comedy, Drama",5.2,okay,90,no data
 3529,2006,Mercury Man,Action,4.2,okay,106,really long movie
 3530,2006,Obarnata elha,Drama,6.1,good,127,really long movie
 3531,2006,Header,"Comedy, Crime, Drama",4.5,okay,89,avg length movie
@@ -3538,7 +3538,7 @@
 3536,2006,Satan's Whip,Horror,3.0,okay,94,really long movie
 3537,2006,"Ajde, dan... prodji...",Drama,4.6,okay,102,really long movie
 3538,2006,El camino de San Diego,Comedy,7.0,good,98,really long movie
-3539,2006,Di liu ling yi ge dian hua,Drama,4.1,okay,90,really long movie
+3539,2006,Di liu ling yi ge dian hua,Drama,4.1,okay,90,no data
 3540,2006,Mon seung,"Horror, Mystery",6.1,good,85,avg length movie
 3541,2006,Classmates,"Drama, Mystery, Romance",8.1,good,175,really long movie
 3542,2006,Em 4 Jay,Drama,5.4,okay,87,avg length movie
@@ -3575,8 +3575,8 @@
 3573,2005,Gekijouban Poketto monsutâ Adobansu jenerêshon: Myu,"Animation, Action, Adventu",6.9,good,103,really long movie
 3574,2006,Tirupathi,"Action, Drama",3.2,okay,158,really long movie
 3575,2006,The Zombie Diaries,"Horror, Sci-Fi",4.0,okay,85,avg length movie
-3576,2006,Os 12 Trabalhos,Drama,6.8,good,90,really long movie
-3577,2006,Love Conquers All,"Drama, Romance",5.9,okay,90,really long movie
+3576,2006,Os 12 Trabalhos,Drama,6.8,good,90,no data
+3577,2006,Love Conquers All,"Drama, Romance",5.9,okay,90,no data
 3578,2005,Mahiha ashegh mishavand,"Drama, Romance",6.9,good,96,really long movie
 3579,2006,The Murder Game,"Horror, Mystery, Thriller",3.9,okay,87,avg length movie
 3580,2006,"Kasal, kasali, kasalo","Comedy, Romance",6.0,okay,100,really long movie
@@ -3592,7 +3592,7 @@
 3590,2005,Sex mashin: Hiwai na kisetsu,Comedy,5.4,okay,64,avg length movie
 3591,2005,Enjo-kôsai monogatari: shitagaru onna-tachi,Drama,5.3,okay,65,avg length movie
 3592,2006,The Killing of John Lennon,"Crime, Drama",6.3,good,114,really long movie
-3593,2006,Saskin,"Comedy, Romance",4.6,okay,90,really long movie
+3593,2006,Saskin,"Comedy, Romance",4.6,okay,90,no data
 3594,2006,Svein og rotta,Family,4.6,okay,72,avg length movie
 3595,2006,Förortsungar,"Comedy, Drama, Family",4.6,okay,96,really long movie
 3596,2006,Nana 2,"Drama, Music, Romance",6.1,good,130,really long movie
@@ -3613,7 +3613,7 @@
 3611,2006,"Comfort the Disturbed, Disturb the Comforted",Drama,2.1,bad,76,avg length movie
 3612,2006,A Moment with You,Drama,6.3,good,105,really long movie
 3613,2006,Nimmermeer,Drama,6.2,good,63,avg length movie
-3614,2006,Guadalupe,"Drama, Family, Fantasy",5.0,okay,90,really long movie
+3614,2006,Guadalupe,"Drama, Family, Fantasy",5.0,okay,90,no data
 3615,2006,Graf Montenegro,"Adventure, Comedy",4.6,okay,108,really long movie
 3616,2006,Mannat,"Action, Crime, Drama",6.7,good,165,really long movie
 3617,2006,Plasterhead,"Horror, Mystery, Thriller",3.6,okay,94,really long movie
@@ -3634,7 +3634,7 @@
 3632,2006,Ra-dee-o-seu-ta,"Comedy, Drama",7.0,good,112,really long movie
 3633,2006,Tin heng tse,"Action, Crime, Drama",6.2,good,118,really long movie
 3634,2006,Waris Shah: Ishq Daa Waaris,"Drama, History",7.0,good,138,really long movie
-3635,2006,Pente lepta akoma,"Comedy, Drama, Fantasy",6.3,good,90,really long movie
+3635,2006,Pente lepta akoma,"Comedy, Drama, Fantasy",6.3,good,90,no data
 3636,2006,Immortal,Action,6.1,good,110,really long movie
 3637,2006,Beynelmilel,"Comedy, Drama, Music",7.2,good,105,really long movie
 3638,2006,Kuntilanak,Horror,6.2,good,93,really long movie
@@ -3647,7 +3647,7 @@
 3645,2006,Rêves de poussière,Drama,7.0,good,86,avg length movie
 3646,2006,Yume jû-ya,Fantasy,6.4,good,100,really long movie
 3647,2006,Franz + Polina,"Drama, Romance, War",6.9,good,124,really long movie
-3648,2006,Far til fire - i stor stil,"Comedy, Family",4.5,okay,90,really long movie
+3648,2006,Far til fire - i stor stil,"Comedy, Family",4.5,okay,90,no data
 3649,2006,Ddukbang,"Action, Crime",5.7,okay,94,really long movie
 3650,2006,Aju teukbyeolhan sonnim,Drama,6.7,good,99,really long movie
 3651,2006,Sarang-ttawin piryo-eopseo,"Drama, Romance",6.7,good,119,really long movie
@@ -3657,7 +3657,7 @@
 3655,2006,Bang-gwa-hoo-ock-sang,Comedy,6.6,good,103,really long movie
 3656,2006,The Bridge,Drama,6.9,good,69,avg length movie
 3657,2006,Comme des voleurs (à l'est),"Comedy, Romance",6.6,good,112,really long movie
-3658,2006,Il giorno + bello,Comedy,6.1,good,90,really long movie
+3658,2006,Il giorno + bello,Comedy,6.1,good,90,no data
 3659,2006,To a Tee,"Comedy, Drama, Romance",4.7,okay,64,avg length movie
 3660,2006,E,"Action, Drama, Thriller",6.5,good,150,really long movie
 3661,2006,Trei frati de belea,Comedy,6.3,good,105,really long movie
@@ -3675,7 +3675,7 @@
 3673,2006,Game,Thriller,5.0,okay,130,really long movie
 3674,2006,Avrora,Drama,6.2,good,107,really long movie
 3675,2006,Sudsakorn,"Action, Adventure, Fantasy",4.1,okay,115,really long movie
-3676,2006,2 wol 29 il,"Horror, Thriller",5.7,okay,90,really long movie
+3676,2006,2 wol 29 il,"Horror, Thriller",5.7,okay,90,no data
 3677,2006,Eoh-neu-nal-gap-ja-gi D-Day,Horror,5.7,okay,95,really long movie
 3678,2006,Juk-eum-yi soop,Horror,4.1,okay,98,really long movie
 3679,2006,Nebeonjjae cheung,Horror,5.4,okay,100,really long movie
@@ -3730,9 +3730,9 @@
 3728,2006,Yeolhyeol-nama,"Action, Crime, Drama",7.1,good,118,really long movie
 3729,2006,Ores koinis isyhias,"Drama, Romance",6.2,good,86,avg length movie
 3730,2005,Vennela,Romance,7.0,good,133,really long movie
-3731,2006,Aachi & Ssipak,"Animation, Action, Comedy",6.8,good,90,really long movie
+3731,2006,Aachi & Ssipak,"Animation, Action, Comedy",6.8,good,90,no data
 3732,2006,Vasthavam,"Action, Crime, Thriller",7.1,good,145,really long movie
-3733,2005,Don de Dios,Drama,4.2,okay,90,really long movie
+3733,2005,Don de Dios,Drama,4.2,okay,90,no data
 3734,2006,Saep sanit sid saai naa,"Comedy, Romance",6.8,good,95,really long movie
 3735,2006,I psyhi sto stoma,Drama,6.6,good,117,really long movie
 3736,2006,Making Of,"Crime, Drama",6.6,good,120,really long movie
@@ -3787,7 +3787,7 @@
 3785,2006,Das Flüstern des Mondes,"Comedy, Crime, Drama",5.1,okay,97,really long movie
 3786,2006,Ojisan tengoku,"Comedy, Drama, Fantasy",4.9,okay,64,avg length movie
 3787,2006,Foul Gesture,"Comedy, Crime, Drama",6.2,good,100,really long movie
-3788,2005,Aqvariom,Drama,3.5,okay,90,really long movie
+3788,2005,Aqvariom,Drama,3.5,okay,90,no data
 3789,2006,The Falling,"Action, Drama",2.7,bad,114,really long movie
 3790,2006,M,Drama,6.1,good,110,really long movie
 3791,2006,Kilukkam Kilukilukkam,Comedy,2.3,bad,156,really long movie
@@ -3806,7 +3806,7 @@
 3804,2005,Yi shi er niao,"Action, Adventure, Comedy",3.5,okay,93,really long movie
 3805,2006,Be name pedar,"Drama, War",6.0,okay,96,really long movie
 3806,2006,The Ante,"Comedy, Crime, Drama",4.8,okay,82,avg length movie
-3807,2006,Big Story in a Small City,Comedy,7.1,good,90,really long movie
+3807,2006,Big Story in a Small City,Comedy,7.1,good,90,no data
 3808,2005,Galazio forema,Drama,5.3,okay,108,really long movie
 3809,2005,Nama-natsu,"Comedy, Drama",5.3,okay,57,short movie
 3810,2006,Dishyum,"Action, Drama, Romance",5.3,okay,133,really long movie
@@ -3818,7 +3818,7 @@
 3816,2005,Double Down,"Action, Adventure, Crime",4.6,okay,93,really long movie
 3817,2005,Danger,Thriller,6.4,good,125,really long movie
 3818,2006,Kitakitalu,Comedy,5.8,okay,150,really long movie
-3819,2005,Meesrti,Action,3.6,okay,90,really long movie
+3819,2005,Meesrti,Action,3.6,okay,90,no data
 3820,2006,El eial herbet,Comedy,3.3,okay,100,really long movie
 3821,2006,Hearty Paws,Family,7.4,good,97,really long movie
 3822,2006,An m'agapas,Drama,3.2,okay,85,avg length movie
@@ -3827,14 +3827,14 @@
 3825,2006,Hridoyer Kotha,Drama,7.0,good,138,really long movie
 3826,2005,Molla Barir Bou,"Comedy, Drama, Family",6.9,good,156,really long movie
 3827,2005,El-Haya Montaha El-lazza,"Drama, Romance",4.5,okay,145,really long movie
-3828,2005,Al Abaa' al Sighar,"Comedy, Family, Musical",5.9,okay,90,really long movie
+3828,2005,Al Abaa' al Sighar,"Comedy, Family, Musical",5.9,okay,90,no data
 3829,2006,Wesh Egram,"Comedy, Crime, Romance",5.1,okay,105,really long movie
 3830,2005,Sharlatan,"Action, Comedy, Fantasy",2.5,bad,81,avg length movie
 3831,2006,Chithiram Pesuthadi,"Drama, Romance, Thriller",7.1,good,148,really long movie
 3832,2006,Em Magan,"Drama, Romance",6.5,good,154,really long movie
 3833,2006,Bêrîtan,"Drama, War",6.8,good,162,really long movie
-3834,2005,Paskutiniai Bremeno muzikantai,Musical,8.0,good,90,really long movie
-3835,2005,Malesh Ehna Benetbahdel,Comedy,5.7,okay,90,really long movie
+3834,2005,Paskutiniai Bremeno muzikantai,Musical,8.0,good,90,no data
+3835,2005,Malesh Ehna Benetbahdel,Comedy,5.7,okay,90,no data
 3836,2006,Hyderabad Nawabs,Comedy,6.8,good,118,really long movie
 3837,2006,Fe Mahatet masr,Comedy,6.1,good,102,really long movie
 3838,2005,The Angrez,Comedy,7.3,good,110,really long movie
@@ -3844,9 +3844,9 @@
 3842,2005,A Film by Aravind,"Horror, Mystery",7.0,good,150,really long movie
 3843,2006,Thiruvilaiyaadal Aarambam,Drama,6.3,good,155,really long movie
 3844,2006,"Sarnie zniwo, czyli Pokusa statuetkowego szlaku",Comedy,6.3,good,62,avg length movie
-3845,2006,Khoda Nazdik Ast,Drama,6.9,good,90,really long movie
+3845,2006,Khoda Nazdik Ast,Drama,6.9,good,90,no data
 3846,2005,Laylat Seqout Baghdad,Comedy,5.3,okay,109,really long movie
-3847,2005,Hot Wheels Acceleracers the Ultimate Race,Animation,7.0,good,60,avg length movie
+3847,2005,Hot Wheels Acceleracers the Ultimate Race,Animation,7.0,good,60,no data
 3848,2005,Eial Habeba,Family,4.6,okay,130,really long movie
-3849,2005,Neghab,"Drama, Mystery",6.1,good,90,really long movie
+3849,2005,Neghab,"Drama, Mystery",6.1,good,90,no data
 3850,2006,Go!Animate the Movie,"Animation, Action, Adventu",4.8,okay,99,really long movie
