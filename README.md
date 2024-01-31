@@ -11,7 +11,7 @@ This project focuses on collecting, preparing, and serving data related to movie
 ## Technologies Used
 - Data Collection: Python
 - Data Processing: Pandas
-- Database: MYSQL
+- Datasource : MYSQL , API
 - Data Lake : Google BigQuery
 
 
