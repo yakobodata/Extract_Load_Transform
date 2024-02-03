@@ -10,9 +10,12 @@ In this repository, I explore one of the many possible options for implementing 
 - In the two working notebooks (API_ETL.ipynb, etl.ipynb), I explore two ways of transforming data. The first method uses a Pandas transformation in a local environment, and the second involves executing a data extraction using an API with the necessary transformations to add business context to the data making it ready for analysis. 📊🔄
 - Finally, using Python libraries for Google Cloud Platform, I store these analysis-ready data in BigQuery, completing the ETL process. 🐍🔍📊
 
+![diagram](./images/Movies_2024.png)
+
 As a conclusion from the course (ETL using Python: from MySQL to BigQuery), I understand that many performance improvements can be implemented, and I can explore new tools for storing my data. I also recognize that in modern data architectures, the ELT approach is more suitable. 🛠️💡
 
 I continue my studies to deepen my knowledge in Cloud AWS. ☁️📚
+
 
 ## Key Features
 - Data Collection: Utilized mysql as a  data source to gather comprehensive information about movies.
