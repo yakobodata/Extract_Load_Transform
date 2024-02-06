@@ -1,13 +1,13 @@
 # Movie Data Engineering Project
 ## Overview
 I'm excited to share the progress in my data engineering studies! 🚀 .
-This project focuses on collecting, preparing, and serving data related to movies. The primary goal is to gain insights into the likability and length of movies, providing valuable information for understanding audience preferences and movie characteristics.
+This project focuses on collecting, preparing, and serving data related to movies. The primary goal is to gain insights into the likability and length of movies, providing analysis ready data for understanding audience preferences and movie characteristics.
 
 
-In this repository, I explore one of the many possible options for implementing an ETL pipeline.
+In this repository, I explore a concept called Extract Transform Load . This enables me to collect data from different sources , transform it and make it ready for data analytics.
 
 - I'm using two types of data sources, a local one represented by a MySQL database, and a remote one represented by a Public API. 🏛️🌐
-- In the two working notebooks (API_ETL.ipynb, etl.ipynb), I explore two ways of transforming data. The first method uses a Pandas transformation in a local environment, and the second involves executing a data extraction using an API with the necessary transformations to add business context to the data making it ready for analysis. 📊🔄
+- In the two working notebooks (API_ETL.ipynb, etl.ipynb), I explore two ways of transforming data. The first method uses a Pandas filters transformation in a local environment, and the second involves using Python for  transformation to add business context to the data making it ready for analysis. 📊🔄
 - Finally, using Python libraries for Google Cloud Platform, I store these analysis-ready data in BigQuery, completing the ETL process. 🐍🔍📊
 
 ![diagram](./images/Movies_2024.png)
